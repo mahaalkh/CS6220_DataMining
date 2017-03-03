@@ -1,0 +1,2444 @@
+Automated Selection of Materialized Views and Indexes in SQL Databases.
+FIX: Feature-based Indexing Technique for XML Documents.
+An Interval Classifier for Database Mining Applications.
+Composite Subset Measures.
+Data Sharing Analysis for a Database Programming Lanaguage via Abstract Interpretation.
+The WorlInfo Assistant: Spatio-Temporal Information Integration on the Web.
+XML Full-Text Search: Challenges and Opportunities.
+Supporting Exceptions to Schema Consistency to Ease Schema Evolution in OODBMS.
+Direct Algorithms for Computing the Transitive Closure of Database Relations.
+Analyzing Quantitative Databases: Image is Everything.
+Using Formal Methods to Reason about Semantics-Based Decompositions of Transactions.
+Efficient Incremental Garbage Collection for Client-Server Object Database Systems.
+Improving Performance with Bulk-Inserts in Oracle R-Trees.
+Analyzing energy behavior of spatial access methods for memory-resident data.
+An Empirical Performance Study of the Ingres Search Accelerator for a Large Property Management Database System.
+PicoDBMS: Validation and Experience.
+Memory Requirements for Query Execution in Highly Constrained Devices.
+Management Of Schema Evolution In Databases.
+User-Optimizer Communication using Abstract Plans in Sybase ASE.
+Improving Adaptable Similarity Query Processing by Using Approximations.
+Using Flexible Transactions to Support Multi-System Telecommunication Applications.
+Modelling Events a Data Base Application Design
+Random Sampling from Pseudo-Ranked B+ Trees.
+The C-based Database Programming Language Jasmine/C.
+Approximate Encoding for Direct Access and Query Processing over Compressed Bitmaps.
+Future research directions: Evidence from this conference.
+Efficient Exact Set-Similarity Joins.
+Resource Sharing in Continuous Sliding-Window Aggregates.
+An Optimized Backout Mechanism for Sequential Updates.
+Optimization for Spatial Query Processing.
+Scalable Sweeping-Based Spatial Join.
+Xquec: Pushing Queries to Compressed XML Data.
+ULoad: Choosing the Right Storage for Your XML Application.
+On the Properties of Extended Inclusion Dependencies.
+Operations and the Properties on Non-First-Normal-Form Relational Databases.
+A Commercial Back-End Data Base System
+The Information Preserving Properties of Relational Database Transformations.
+Efficient Search in Very Large Databases.
+An Integration Framework for Sensor Networks and Data Stream Management Systems.
+On Correctly Configuring Versioned Objects.
+REED: Robust, Efficient Filtering and Event Detection in Sensor Networks.
+Hybrid Transitive Closure Algorithms.
+Providing Time-Related Constraints for Conventional Database Systems.
+Watermarking Relational Databases.
+Scheduling Real-time Transactions: a Performance Evaluation.
+Hippocratic Databases.
+Scheduling Real-Time Transactions with Disk Resident Data.
+Fast Similarity Search in the Presence of Noise, Scaling, and Translation in Time-Series Databases.
+Administration and Autonomy in a Replication-Transparent Distributed DBMS.
+Querying Shapes of Histories.
+Semantic Overlay Networks.
+Whither Data Mining?
+Indexing Data-oriented Overlay Networks.
+Fast Algorithms for Mining Association Rules in Large Databases.
+A Middleware for Fast and Flexible Sensor Network Deployment.
+Information Processing for CAD/VLSI on a Generalized Data Management System.
+KODA - The Architecture And Interface of a Data Model Independent Kernel.
+XML Repository and Active Views Demonstration.
+Historical Multi-Media Databases.
+P*TIME: Highly Scalable OLTP DBMS for Managing Update-Intensive Stream Workload.
+Schema-driven Customization of Web Services.
+BANKS: Browsing and Keyword Searching in Relational Databases.
+COMA - A System for Flexible Combination of Schema Matching Approaches.
+An Electronic Patient Record "on Steroids": Distributed, Peer-to-Peer, Secure and Privacy-conscious.
+XCheck: A Platform for Benchmarking XQuery Engines.
+Active Views for Electronic Commerce.
+DB2 Spatial Extender - Spatial data within the RDBMS.
+Quasi Serializability: a Correctness Criterion for Global Concurrency Control in InterBase.
+Managing Distributed Workspaces with Active XML.
+An Extensible Object-Oriented Approach to Databases for VLSI/CAD.
+Active XML: Peer-to-Peer Data and Web Services Integration.
+Storage and Querying of E-Commerce Data.
+Querying and Updating the File.
+Database Technologies for Electronic Commerce.
+Update Semantics for Incomplete Databases.
+On the Computation of Multidimensional Aggregates.
+Incremental Maintenance for Materialized Views over Semistructured Data.
+Scalable Continuous Query Processing by Tracking Hotspots.
+StreamMiner: A Classifier Ensemble-based Engine to Mine Concept-drifting Data Streams.
+Towards DBMSs for Supporting New Applications.
+Networked Query Processing for Distributed Stream-Based Applications.
+Transactions in Relational Databases (Preliminary Report).
+Cost-Based Query Transformation in Oracle.
+Estimating the Selectivity of XML Path Expressions for Internet Scale Applications.
+Database Tuning Advisor for Microsoft SQL Server 2005.
+Automated Statistics Collection in DB2 UDB.
+Trio: A System for Data, Uncertainty, and Lineage.
+Navigating large-scale semi-structured data in business portals.
+Database Architecture for New Hardware.
+Disseminating Updates on Broadcast Disks.
+Weaving Relations for Cache Performance.
+Aqua: A Fast Decision Support Systems Using Approximate Query Answers.
+DBMSs on a Modern Processor: Where Does Time Go?
+Push Technology Personalization through Event Correlation.
+Query Co-Processing on Commodity Processors.
+Derived Relations: A Unified Mechanism for Views, Snapshots, and Distributed Data
+Fine-Grained Replication and Scheduling with Freshness and Correctness Guarantees.
+Management of Complex Objects as Dynamic Forms.
+Data Staging for On-Demand Broadcast.
+Issues in Distributed Data Base Management Systems: A Technical Overview.
+OQL: A Query Language for Manipulating Object-oriented Databases.
+An Object Data Model with Roles.
+A Distributed Data Base System Using Logical Relational Machines.
+A Modularization Mechanism for Conceptual Modeling.
+Database Snapshots.
+On k-Anonymity and the Curse of Dimensionality.
+A Relationship Mechanism for a Strongly Typed Object-Oriented Database Programming Language.
+On Biased Reservoir Sampling in the Presence of Stream Evolution.
+On Maintaining Priorities in a Production Rule System.
+Toward Recovery-Oriented Computing.
+Vision Paper: Enabling Privacy for the Paranoids.
+Algebraic Properties of Bag Data Types.
+A Framework for Clustering Evolving Data Streams.
+SPIDER: a Schema mapPIng DEbuggeR.
+A Framework for Projected Clustering of High Dimensional Data Streams.
+NILE-PDT: A Phenomenon Detection and Tracking Framework for Data Stream Management Systems.
+An Automated System for Web Portal Personalization.
+Distributed Processing over Stand-alone Systems and Applications.
+Building knowledge-based applications with cooperating databases.
+A One-Pass Algorithm for Accurately Estimating Quantiles for Disk-Resident Data.
+Reducing Storage for Quorum Consensus Algorithms.
+Cache Tables: Paving the Way for an Adaptive Database Cache.
+The Tree Quorum Protocol: An Efficient Approach for Managing Replicated Data.
+Efficient Filtering of XML Documents for Selective Dissemination of Information.
+Resilient Logical Structures for Efficient Management of Replicated Data.
+DataBlitz: A High Performance Main-Memory Storage Manager.
+Auditing Compliance with a Hippocratic Database.
+A Transaction Replication Scheme for a Replicated Database with Node Autonomy.
+Interactive Schema Translation with Instance-Level Mappings.
+Incremental Schema Matching.
+OBK - An Online High Energy Physics' Meta-Data Repository.
+Bulk-Loading Techniques for Object Databases and an Application to Relational Data.
+Personalizing XML Text Search in PimenT.
+Phrase Matching in XML.
+Structure and Content Scoring for XML.
+Eliminating Fuzzy Duplicates in Data Warehouses.
+System D: A Distributed System for Availability.
+Structure and Implementation of a Relational Query Language for the Problem Solver.
+Linear Road: A Stream Data Management Benchmark.
+Application of Sparse Matrix Techniques to Search, Retrieval, Classification and Relationship Analysis in Large Data Base Systems - SPARCOM.
+Adaptable Similarity Search using Non-Relevant Information.
+Garbage Collection in Object Oriented Databases Using Transactional Cyclic Reference Counting.
+A Theory of Timestamp-Based Concurrency Control for Nested Transactions.
+The XPS Approach to Loading and Unloading Terabyte Databases.
+Programming Languages and Databases.
+Specifying and Enforcing Intertask Dependencies.
+Independent Database Schemes under Functional and Inclusion Dependencies.
+To Weave the Web.
+Approximate Matching of Hierarchical Data Using pq-Grams.
+An Incrementally Maintainable Index for Approximate Lookups in Hierarchical Data.
+The ADAPT System: A Generalized Approach Towards Data Conversion.
+The Role Concept in Data Models.
+The Analysis of the Effects of Concurrency Control on Distributed Database System Performance.
+The Continued Saga of DB-IR Integration.
+WS-CatalogNet: An Infrastructure for Creating, Peering, and Querying e-Catalog Communities.
+Interactive Specification and Formal Verification of User's Views in Data Bases Design.
+Multi-objective Query Processing for Database Systems.
+On the Path to Efficient XML Queries.
+A System for Keyword Proximity Search on XML Databases.
+ObjectRank: Authority-Based Keyword Search in Databases.
+A Framework for Using Materialized XPath Views in XML Query Processing.
+Hypothetical Queries in an OLAP Environment.
+Specification-Based Computing Environments.
+A Scalable and Highly Available Networked Database Architecture.
+Architecture of Oracle Parallel Server.
+Object Database Morphology.
+FAD, a Powerful and Simple Database Language.
+A Model of CAD Transactions.
+On Line Processing of Compacted Relations.
+Protection of Information in Relational Data Bases.
+Independent Components of Databases
+Hardware Acceleration in Commercial Databases: A Case Study of Spatial Operations.
+A Database Platform for Bioinformatics.
+Performance Study of a Database Machine in Supporting Relational Databases.
+Approximating Aggregate Queries about Web Pages via Random Walks.
+Materialized Views Selection in a Multidimensional Database.
+An Algebraic Approach to Rule Analysis in Expert Database Systems.
+The Type Concept in Office Document Retrieval.
+Designing Information-Preserving Mapping Schemes for XML.
+Operations Data Bases.
+A Practical and Modular Implementation of Extended Transaction Models.
+SIREN: A Similarity Retrieval Engine for Complex Data.
+An Effective Deductive Object-Oriented Database Through Language Integration.
+Benefits of Path Summaries in an XML Query Optimizer Supporting Multiple Access Methods.
+Performance of Future Database Systems: Bottlenecks and Bonananzas
+A Non-Uniform Data Fragmentation Strategy for Parallel Main-Menory Database Systems.
+IO-Top-k: Index-access Optimized Top-k Query Processing.
+Building Scalable Internet Applications with Oracle8i Server.
+On Searching Transposed Files (Abstract).
+Molecular Objects, Abstract Data Types, and Data Models: A Framework.
+A Deductive Method for Entity-Relationship Modeling.
+Panel: Is Generic Metadata Management Feasible?
+A Database System for Real-Time Event Aggregation in Telecommunication.
+The Microsoft Repository.
+Large-Scale, Standards-Based Earth Observation Imagery and Web Mapping Services.
+Context-Based Prefetch for Implementing Objects on Relations.
+Spatio-Temporal Retrieval with RasDaMan.
+Geo/Environmental and Medical Data Management in the RasDaMan System.
+Fast Maintenance of Semantic Integrity Assertions Using Redundant Aggregate Data.
+Advances in Memory Technology.
+Visual Web Information Extraction with Lixto.
+An Overview of Repository Technology.
+A Model of Queries for Object-Oriented Databases.
+Supervised Wrapper Generation with Lixto.
+Supporting Periodic Authorizations and Temporal Reasoning in Database Access Control.
+Privacy-Preserving Indexing of Documents on the Network.
+View Management in Distributed Data Base Systems.
+Document Management as a Database Problem.
+Value-cognizant Speculative Concurrency Control.
+Distributed Concurrency Control in Database Systems.
+Provisions and Obligations in Policy Management and Security Applications.
+On the Encipherment of Search Trees and Random Access Files.
+Inference of Concise DTDs from XML Data.
+Collections of Objects in SQL3.
+An Annotation Management System for Relational Databases.
+The Integrated Data Model: A Database Perspective.
+Adaptable Recovery Using Dynamic Quorum Assignments.
+A Sophisticate's Introduction to Database Normalization Theory.
+Achieving Zero Information-Loss in a Classical Database Environment.
+Querying Business Processes.
+Technology Challenges in a Data Warehouse.
+Comprehensive Approach to the Design of Relational Database Schemes.
+TPC-D: The Challenges, Issues and Results.
+Object Fusion in Geographic Information Systems.
+SIRIUS: A French Nationwide Project on Distributed Data Bases.
+A Model for Active Object Oriented Databases.
+Efficient Query Processing for Multi-Dimensionally Clustered Tables in DB2.
+A Resource Class Independent Deadlock Detection Algorithm
+An Analysis of Three Transaction Processing Architectures.
+Returning Modified Rows - SELECT Statements with Side Effects.
+Automatic Data Fusion with HumMer.
+MOBY: An Architecture for Distributed Expert Database Systems.
+Universal Relation Views: A Pragmatic Approach.
+A Data Manipulation Language for Relational Data Structures.
+Database Publication Practices.
+Materialized Views in Oracle.
+Database Tools and Interfaces.
+Estimating the Selectivity of Spatial Queries Using the `Correlation' Fractal Dimension.
+Benchmarking Database Systems A Systematic Approach.
+MINERVA: Collaborative P2P Search.
+What does Boyce-Codd Normal Form Do?
+Object-Oriented Database Systems: Promises, Reality, and Future.
+DTD-Directed Publishing with Attribute Translation Grammars.
+Timestamp-Based Algorithms for Concurrency Control in Distributed Database Systems.
+Conversational Aspects of Database Interactions.
+Information Integration: The MOMIS Project Demonstration.
+A Sophisticate's Introduction to Distributed Concurrency Control (Invited Paper).
+An Extended Relational Database Model for Uncertain and Imprecise Information.
+ULDBs: Databases with Uncertainty and Lineage.
+Panel: One Platform for Mining Structured & Unstructured Data: Dream or Reality?
+Retrieval of Relational Structures for Image Sequence Analysis.
+Implementing Mapping Composition.
+The Implementation of GERM, An Entity-Relationship Data Base Management System
+Disk Shadowing.
+Type-Based XML Projection.
+Content-Based Routing: Different Plans for Different Data.
+Automatic Composition of Transition-based Semantic Web Services with Messaging.
+Formalization of Database Systems - and a Formal Definition of IMS (Invited Paper).
+The X-tree : An Index Structure for High-Dimensional Data
+Updating Derived Relations: Detecting Irrelevant and Autonomously Computable Updates.
+An Evaluation of Generic Bulk Loading Techniques.
+Basis of a Partially Informed Distributed Database.
+Query Processing Techniques for Multiversion Access Methods.
+Media360 Workflow-Implementing a Workflow Engine Inside a Database.
+A Generic Approach to Bulk Loading Multidimensional Index Structures.
+An Iterative Method for Distributed Database Design.
+Evaluation and Optimization.
+Updating Replicated Data During Communications Failures.
+Implementing a Three Schema DBMS Framework.
+R-Tree Based Indexing of Now-Relative Bitemporal Data.
+Xcerpt and visXcerpt: From Pattern-Based to Visual Querying of XML and Semistructured Data.
+Flexible and scalable digital library search.
+CS4: A Tool for Database Design by Infological Simulation (Abstract).
+LegoDB: Customizing Relational Storage for XML Documents.
+PC Database Systems - Present and Future.
+STDL - A Portable Language for Transaction Processing.
+Efficient Evaluation of XQuery over Streaming Data.
+Managing Data from High-Throughput Genomic Processing: A Case Study.
+An Almost-Serial Protocol for Transaction Execution in Main-Memory Database Systems.
+Information, Communication, and Money: For What Can We Charge and How Can We Meter It?
+Microsoft English Query 7.5: Automatic Extraction of Semantics from Relational Databases and OLAP Cubes.
+Multiversion Query Locking.
+Logic Programming Environments for Large Knowledge Bases: A Practical Perspective (Abstract).
+Putting Context into Schema Matching.
+Information Preserving XML Schema Embedding.
+An Architecture and Data Model for CAD Databases.
+Semantic Integration in Heterogeneous Databases Using Neural Networks.
+Optimizing View Queries in ROLEX to Support Navigable Result Trees.
+Indexing and Querying XML Data for Regular Path Expressions.
+Logical and Physical Versioning in Main Memory Databases.
+Web Services (Industrial Session).
+Coalescing in Temporal Databases.
+Applying Database Technology in the ADSM Mass Storage System.
+Fast Evaluation Techniques for Complex Similarity Queries.
+Data Management for Real-Time Systems.
+Computing Frequent Itemsets Inside Oracle 10G.
+Certification by Intervals of Timestamps in Distributed Database Systems.
+Containment of Conjunctive Object Meta-Queries.
+Pathfinder: XQuery - The Relational Way.
+Deferring Updates in a Relational Data Base System
+Database Architecture Optimized for the New Bottleneck: Memory Access.
+Production Database Systems: Making Them Easy is Hard Work.
+The Drill Down Benchmark.
+The New Locking, Logging, and Recovery Architecture of Microsoft SQL Server 7.0.
+Warehousing Workflow Data: Challenges and Opportunities.
+Obtaining Progressive Protocols for a Simple Multiversion Database Model.
+A Conceptual Model for Dynamic Clustering in Object Databases.
+HePToX: Marrying XML and Heterogeneity in Your P2P Databases.
+View Invalidation for Dynamic Content Caching in Multitiered Architectures.
+Database Machine Morphology.
+AFilter: Adaptable XML Filtering with Prefix-Caching and Suffix-Clustering.
+Data Models and Data Manipulation Languages: Complementary Semantics and Proof Theory
+Toto, We're Not in Kansas Anymore: On Transitioning from Research to the Real (Invited Industrial Talk).
+Accommodating Exceptions in Databases, and Refining the Schema by Learning from them.
+O-O, What Have They Done to DB2?
+Query Processing in the AquaLogic Data Services Platform.
+Of Objects and Databases: A Decade of Turmoil
+Data Model Equivalence.
+Object and File Management in the EXODUS Extensible Database System.
+Integrating Automatic Data Acquisition with Business Processes - Experiences with SAP's Auto-ID Infrastructure.
+PESTO : An Integrated Query/Browser for Object Databases.
+Transaction Monitoring in ENCOMPASS: Reliable Distributed Transaction Processing
+Priority in DBMS Resource Scheduling.
+Robustness to Crash in a Distributed Database: A Non Shared-memory Multi-Processor Approach.
+Reducing the Braking Distance of an SQL Query Engine.
+Data Routing Rather than Databases: The Meaning of the Next Wave of the Web Revolution to Data Management.
+Distributed Concurrency Control Performance: A Study of Algorithms, Distribution, and Replication.
+Adaptive Predicate Managers in Database Systems.
+Translating and Optimizing SQL Queries Having Aggregates.
+Miro Web: Integrating Multiple Data Sources through Semistructured Data Types.
+XPERANTO: Middleware for Publishing Object-Relational Data as XML Documents.
+Dynamic Load Balancing in Hierarchical Parallel Database Systems.
+The Performance of Concurrency Control Algorithms for Database Management Systems.
+Client-Based Access Control Management for XML documents.
+An Incremental Join Attachment for Starburst.
+Chip-Secured Data Access: Reconciling Access Rights with Data Encryption.
+Bank of America Case Study: The Information Currency Advantage.
+Chip-Secured Data Access: Confidential Data on Untrusted Servers.
+The Problem of Multiple Paths in a Database Schema.
+New Strategies for Computing the Transitive Closure of a Database Relation.
+Ontology-based Support for Digital Government.
+Using Partial Evaluation in Distributed Query Evaluation.
+Some Experimental Results on Distributed Join Algorithms in a Local Network.
+Database Design Tools: An Expert System Approach.
+Plan-Per-Tuple Optimization Solution - Parallel Execution of Expensive User-Defined Functions.
+Semantic Modeling of Object Oriented Databases.
+Active Storage Hierarchy, Database Systems and Applications - Socratic Exegesis.
+Work and Information Practices in the Sciences of Biodiversity.
+A Data Transformation System for Biological Data Sources.
+Decision Tables: Scalable Classification Exploring RDBMS Capabilities.
+From XML View Updates to Relational View Updates: old solutions to a new problem.
+Aggregate Maintenance for Data Warehousing in Informix Red Brick Vista.
+Efficient Detection of Empty-Result Queries.
+On Map-Matching Vehicle Tracking Data.
+Using Large Data Bases for Interactive Problem Solving.
+Effects of Database Size on Rule System Performance: Five Case Studies.
+OLAP Over Uncertain and Imprecise Data.
+LoPiX: A System for XML Data Integration and Manipulation.
+Hashing Methods and Relational Algebra Operations.
+Telcordia's Database Reconciliation and Data Quality Analysis Tool.
+Online Scaling in a Highly Available Database.
+Monitoring Streams - A New Class of Data Management Applications.
+Evaluating Functional Joins Along Nested Reference Sets in Object-Relational and Object-Oriented Databases.
+Efficient Allocation Algorithms for OLAP Over Imprecise Data.
+Integrating Reliable Memory in Databases.
+Interoperability In Multidatabases: Semantic and System Issues (Panel).
+The Propel Distributed Services Platform.
+Transaction and Catalog Management of the Distributed File Management System DISCO.
+Operator Scheduling in a Data Stream Manager.
+The Oracle Universal Server Buffer.
+Enforcing Inclusion Dependencies and Referencial Integrity.
+Using Latency-Recency Profiles for Data Delivery on the Web.
+Optimization of Relational Schemas Containing Inclusion Dependencies.
+Near Neighbor Search in Large Metric Spaces.
+Improving Business Process Quality through Exception Understanding, Prediction, and Prevention.
+The Impact of Global Clustering on Spatial Database Systems.
+Process Automation as the Foundation for E-Business.
+Panel: Future Directions of Database Research - The VLDB Broadening Strategy, Part 2.
+A Temporal Framework for Database Specifications.
+Illuminating the Dark Side of Web Services.
+PSYCHO: A Prototype System for Pattern Management.
+Data Abstraction, Databases and Conceptual Modelling.
+Concept Description Language for Statistical Data Modeling.
+Standardization and the Relational Approach to Databases: An ANSI Task Group Status Report.
+Operating System Extensions for the Teradata Parallel VLDB.
+On Modelling Behavioural Semantics of Databases
+OS Support for VLDBs: Unix Enhancements for the Teradata Data Base.
+Issues in Network Management in the Next Millennium.
+The Theory of Probabilistic Databases.
+What is the Use of Abstract Data Types?
+The Query Optimizer in Tandem's new ServerWare SQL Product.
+Toward Practical Constraint Databases.
+Consistency of Versions in Object-Oriented Databases.
+A Knowledge-Based Approach to Data Management for Intelligent User Interfaces.
+Locking with Prevention of Cyclic and Infinite Restarting in Distributed Database Systems.
+Fast Incremental Indexing for Full-Text Information Retrieval.
+Practical Applications of Triggers and Constraints: Success and Lingering Issues (10-Year Award).
+Managing Memory to Meet Multiclass Workload Response Time Goals.
+Data-Driven, One-To-One Web Site Generation for Data-Intensive Applications.
+A Prototype Content-Based Retrieval System that Uses Virtual Images to Save Space.
+Translation and Optimization of Logic Queries: The Algebraic Approach.
+Towards Automated Performance Tuning for Complex Workloads.
+Constructing and integrating data-centric Web Applications: Methods, Tools, and Techniques.
+LAURA: A Formal Data Model and her Logical Design Methodology.
+Optimization of Systems of Algebraic Equations for Evaluating Datalog Queries.
+BigSur: A System For the Management of Earth Science Data.
+Deriving Production Rules for Constraint Maintainance.
+An Optimizable Model for Application of Rollback/Restart/Recovery Procedures for Large Data Bases.
+Deriving Production Rules for Incremental View Maintenance.
+Flexible Database Generators.
+Production Rules in Parallel and Distributed Database Environments.
+To Tune or not to Tune? A Lightweight Physical Design Alerter.
+Managing Semantic Heterogeneity with Production Rules and Persistent Queues.
+Checking Consistency of Database Constraints: a Logical Basis.
+Partial-Match Queries and File Designs.
+Efficient and Effective Clustering Methods for Spatial Data Mining.
+UNIBASE - An Integrated Access to Databases.
+Cache-Conscious Concurrency Control of Main-Memory Indexes on Shared-Memory Multiprocessor Systems.
+MDL Summarization with Holes.
+Globalization: Challenges to Database Community.
+Validation and Verification Aspects of Information Modeling.
+Kaleidoscope Data Model for An English-like Query Language.
+On the Role of `Understanding Models' in Conceptual Schema Design.
+Efficiently Linking Text Documents with Relevant Structured Information.
+Data Base Design Tools.
+A Database Approach to Modelling and Managing Security Information
+Maximizing Buffer and Disk Utilizations for News On-Demand.
+Efficient Management of Multiversion Documents by Object Referencing.
+Searching and Mining Fine-Grained Semi-Structured Data.
+The Rebound Sorter: An Efficient Sort Engine for Large Files.
+On-the-Fly, Incremental, Consistent Reading of Entire Databases.
+Distributed Hypertext Resource Discovery Through Examples.
+TwigStack: Bottom-up Processing of Generalized-Tree-Pattern Queries over XML Documents.
+The Principle of Commitment Ordering, or Guaranteeing Serializability in a Heterogeneous Environment of Multiple Autonomous Resource Mangers Using Atomic Commitment.
+Using Taxonomy, Discriminants, and Signatures for Navigating in Text Databases.
+Using Segmented Right-Deep Trees for the Execution of Pipelined Hash Joins.
+Home Network: Road to Ubiquitous World.
+Approximate Query Processing Using Wavelets.
+OntoQuest: Exploring Ontological Data Made Easy.
+Ambient Intelligence with the Ubiquitous Network, the Embedded Computer Devices and the Hidden Databases (abstract).
+Local Dimensionality Reduction: A New Approach to Indexing High Dimensional Spaces.
+On The Marriage of Lp-norms and Edit Distance.
+Application Program Conversion due to Data Base Changes.
+Fast and Accurate Text Classification via Multiple Linear Discriminant Projections.
+Declustering Objects for Visualization.
+Associative Programming in CASSM and its Applications.
+Mining Surprising Patterns Using Temporal Description Length.
+Adaptive Database Buffer Allocation Using Query Feedback.
+Memex: A Browsing Assistant for Collaborative Archiving and Mining of Surf Trails.
+Declustering Databases on Heterogeneous Disk Systems.
+Data Base Machines: System Evaluation and Conversion Issues
+Composite Events for Active Databases: Semantics, Contexts and Detection.
+Bellwether Analysis: Predicting Global Aggregates from Local Regions.
+Dynamic Constraints and Object Migration.
+Multiple Query Processing in Deductive Databases using Query Graphs.
+Design and Performance Tools for Data Base Systems.
+A Temporal Knowledge Representation Model OSAM*/T and Its Query Language OQL/T.
+A History of System R and SQL/Data System (Invited Paper)
+Loadstar: Load Shedding in Data Stream Mining.
+Dynamic Data Distribution (D) in a Shared-Nothing Multiprocessor Data Store.
+Update Synchronization in Distributed Databases.
+CASSM: A Cellular System for Very Large Data Bases.
+Panel: Directions in Database Research.
+Efficient Structural Joins on Indexed XML Documents.
+Storage and Access Structures to Support a Semantic Data Model.
+Extended Set Theory.
+Supporting a Semantic Data Model in a Distributed Database System.
+Inexpensive Large Capacity Storage will Revolutionize the Design of Database Management Systems.
+Tree Pattern Aggregation for Scalable XML Data Dissemination.
+Towards on Open Architecture for LDL.
+Taming XPath Queries by Minimizing Wildcard Steps.
+Analysis of VSAM's Free-Space Behavior.
+RE-Tree: An Efficient Index Structure for Regular Expressions.
+A Formal Perspective on the View Selection Problem.
+Hierarchical Prefix Cubes for Range-Sum Queries.
+Debugging Schema Mappings with Routes.
+Extensible Buffer Management of Indexes.
+Content-Based Image Indexing.
+SUBJECT: A Directory Driven System for Organizing and Accessing Large Statistical Databases
+Optimizing the Secure Evaluation of Twig Queries.
+Managing Temporal Financial Data in an Extensible Database.
+Implementation of Two Semantic Query Optimization Techniques in DB2 Universal Database.
+Parallel Algorithms and Their Implementation in MICRONET.
+Streaming Queries over Streaming Data.
+Adaptive Stream Filters for Entity-based Queries with Non-Value Tolerance.
+A Less Costly Constraints Checking for Join Dependency.
+Remembrance of Streams Past: Overload-Sensitive Management of Archived Streams.
+An Efficient and Scalable Approach to CNN Queries in a Road Network.
+Models of Distributed Systems.
+The Evolution of the Web and Implications for an Incremental Crawler.
+On Bubble Memories and Relational Data Base.
+MIX: A Meta-data Indexing System for XML.
+A Heuristic Approach to Distributed Query Processing.
+Effective Change Detection Using Sampling.
+Approximate Query Translation Across Heterogeneous Information Sources.
+Design and Implementation of a Genetic-Based Algorithm for Data Mining.
+Effective Memory Use in a Media Server.
+A Uniform System for Publishing and Maintaining XML Data.
+A Signature Access Method for the Starburst Database System.
+An Efficient SQL-based RDF Querying Scheme.
+Join Graphs and Acyclic Database Schemes
+U-DBMS: A Database System for Managing Constantly-Evolving Data.
+A Bandwidth Model for Internet Search.
+Querying Multiple Features of Groups in Relational Databases.
+Efficient Indexing Methods for Probabilistic Threshold Queries over Uncertain Data.
+Ordering Information, Conference Organizers, Program Committees, Additional Reviewers, Additional Demonstrations Reviewers, Sponsors, VLDB Endowment, Preface, Foreword.
+Groupwise Processing of Relational Queries.
+An Evaluation of Buffer Management Strategies for Relational Database Systems.
+Temporal Relationships in Databases.
+Data Management for Pervasive Computing.
+Author Index.
+Probabilistic Ranking of Database Query Results.
+A Unifying Framework for Version Control in a CAD Environment.
+Self-Managing Technology in Database Management Systems.
+Principles of Optimally Placing Data in Tertiary Storage Libraries.
+Evaluating Top- Selection Queries.
+A Comparison of Self-Contained and Embedded Database Languages.
+Primitives for Workload Summarization and Implications for SQL.
+PicoDMBS: Scaling Down Database Techniques for the Smartcard.
+Retrieval of Composite Multimedia Objects.
+A Formalism for Extended Transaction Model.
+An Efficient Cost-Driven Index Selection Tool for Microsoft SQL Server.
+File Directory Design Considerations for Distributed Data Bases.
+Storage and Retrieval of XML Data Using Relational Databases.
+A Temporal Evolutionary Object-Oriented Data Model and Its Query Language for Medical Image Management.
+Query Optimization in the Presence of Foreign Functions.
+Entirely Declarative Sensor Network Systems.
+Including Group-By in Query Optimization.
+Dynamic Update Cube for Range-sum Queries.
+Optimization of Queries with User-defined Predicates
+M-tree: An Efficient Access Method for Similarity Search in Metric Spaces.
+Rethinking Database System Architecture: Towards a Self-Tuning RISC-Style Database System.
+Profiling and Internet Connectivity in Automotive Environments.
+Foundations of Automated Database Tuning.
+Optimizing Queries with Universal Quantification in Object-Oriented and Object-Relational Databases.
+Towards an ODMG-Compliant Visual Object Query Language.
+The External Schema and CODASYL.
+Comparing Hierarchical Data in External Memory.
+An External Schema Facility for CODASYL 1978.
+On Index Selection Schemes for Nested Object Hierarchies.
+Who needs XML Databases?
+Managing RDFI Data.
+Privacy-Enhanced Data Management for Next-Generation e-Commerce.
+A Reliable Backend Using Multiattribute Clustering and Select-Join Operator.
+Indexing in a Hypertext Database.
+A Parallel Strategy for Transitive Closure usind Double Hash-Based Clustering.
+A Multidatabase System for Tracking and Retrieval of Financial Data.
+The Enity-Relationship Model: Toward a Unified View of Data.
+Integrating Triggers and Declarative Constraints in SQL Database Sytems.
+Computer Technology and the Database User.
+A Practical Issue Concerning Very Large Data Bases: The Need for Query Governors.
+Full Disjunctions: Polynomial-Delay Iterators in Action.
+The Management of Dynamically Distributed Database Windows (Extended Abstract).
+XSEarch: A Semantic Search Engine for XML.
+Inspector Joins.
+NAOS - Efficient and Modular Reactive Capabilities in an Object-Oriented Database System.
+High Level Indexing of User-Defined Types.
+Optimistic Intra-Transaction Parallelism on Chip Multiprocessors.
+Prediction Cubes.
+Needed: Distributed Control.
+RRXF: Redundancy reducing XML storage in relations.
+Database Selection Using Actual Physical and Acquired Logical Collection Resources in a Massive Domain-specific Operational Environment.
+Stack-based Algorithms for Pattern Matching on DAGs.
+Constructing Database Systems in a Persistent Environment.
+Multi-Dimensional Regression Analysis of Time-Series Data Streams.
+The Case For Safe RAM.
+From Tree Patterns to Generalized Tree Patterns: On Efficient Evaluation of XQuery.
+HiFi: A Unified Architecture for High Fan-in Systems.
+VIPAS: Virtual Link Powered Authority Search in the Web.
+A Fast Index for Semistructured Data.
+Optimizing Star Queries in a Distributed Database System.
+Comparing Data Streams Using Hamming Norms (How to Zero In).
+Derived Data Update in Semantic Databases.
+Sketching Streams Through the Net: Distributed Approximate Query Tracking.
+HISA: A Query System Bridging The Semantic Gap For Large Image Databases.
+An Automatic Data Grabber for Large Web Sites.
+Inferring Function Semantics to Optimize Queries.
+A Formal Model for Maximum Concurrency in Transaction Systems with Predeclared Writesets.
+A Nanotechnology-based Approach to Data Storage.
+Development of a Multimedia Information System for an Office Environment.
+Streaming in a Connected World.
+Finding Hierarchical Heavy Hitters in Data Streams.
+Summarizing and Mining Inverse Distributions on Data Streams via Dynamic Inverse Sampling.
+Integration of Buffer Management and Query Optimization in Relational Database Environment.
+REFEREE: An Open Framework for Practical Testing of Recommender Systems using ResearchIndex.
+Biodiversity Informatics Infrastructure: An Information Commons for the Biodiversity Community.
+Temporal Integrity Constraints with Indeterminacy.
+ENIAM: A More Complete Conceptual Schema Language.
+AIM - An Integrity Monitor for the Database System INGRES.
+Lifting the Burden of History from Adaptive Query Processing.
+Lineage Tracing for General Data Warehouse Transformations.
+Linking Business to Deliver Value: A Data Management Challenge.
+Efficient Constraint Processing for Highly Personalized Location Based Services.
+PIVOT and UNPIVOT: Optimization and Execution Strategies in an RDBMS.
+Integrating SQL Databases with Content-Specific Search Engines.
+Querying a Multilevel Database: A Logical Analysis.
+DBMS Standards: Current Status and Future Directions.
+Data Dictionaries: An Assessment of Current Practice and Problems
+Physical Data Independence, Constraints, and Optimization with Universal Plans
+Equivalence and Mapping of Database Schemes.
+The NEXT Logical Framework for XQuery.
+Selective Deferred Index Maintenance & Concurrency Control in Integrated Information Systems.
+MARS: A System for Publishing XML from Mixed and Redundant Storage.
+Integration of Time Versions into a Relational Database System.
+An Implementation for Nested Relational Databases.
+Rewriting XPath Queries Using Materialized Views.
+Automatic SQL Tuning in Oracle 10g.
+Query Processing for High-Volume XML Message Brokering.
+SQL Memory Management in Oracle9i.
+Toward Learning Based Web Query Processing.
+Logical Design of Deductive Natural Language Consultable Data Bases.
+Towards an Internet-Scale XML Dissemination Service.
+IDBD - An Interactive Design Tool for CODASYL-DBTG-Type Data bases.
+Design and Analysis of Integrated Concurrency-Coherence Controls.
+A Processing Interface for Multiple External Schema Access to a Data Base Management System.
+Rule Management in Object Oriented Databases: A Uniform Approach.
+Efficient Query Evaluation on Probabilistic Databases.
+Database De-Centralization - A Practical Approach.
+Answering Queries from Statistics and Probabilistic Views.
+Focused Crawling Using Context Graphs.
+The Effect of Skewed Data Access on Buffer Hits and Data Contention an a Data Sharing Environment.
+Self-similarity in the Web.
+DTL's DataSpot: Database Exploration Using Plain Language.
+Computing Geographical Scopes of Web Resources.
+Semantic Data Caching and Replacement.
+Bridging the Gap between OLAP and SQL.
+VOODB: A Generic Discrete-Event Random Simulation Model To Evaluate the Performances of OODBs.
+iDM: A Unified and Versatile Data Model for Personal Dataspace Management.
+Supporting Ontology-Based Semantic matching in RDBMS.
+iMeMex: Escapes from the Personal Information Jungle.
+Distributed Set Expression Cardinality Estimation.
+Progressive Merge Join: A Generic and Non-blocking Sort-based Join Algorithm.
+Answering Top-k Queries Using Views.
+Clustering Techniques for Minimizing External Path Length.
+Reorganization Points for File Designs with Nonlinear Processing Costs.
+Issues in Developing Very Large Data Warehouses.
+Large Databases for Remote Sensing and GIS.
+Mining Multi-Dimensional Constrained Gradients in Data Cubes.
+A Non-Two-Phase Locking Protocol for Concurrency Control in General Databases.
+Simlarity Search for Web Services.
+Foundation Matters.
+Containment of Nested XML Queries.
+Locking and Recovery in a Shared Database System: An Application Programming Tutorial.
+Probabilistic Optimization of Top N Queries.
+An Introduction to the Unified Database Language (UDL).
+An Experimental VM/370 Based Information System.
+Referential Integrity
+On the Algebraic Specification of Databases.
+Design Principles of a Data Base System for Unlimited Quantities of Data with Highly Complex Structures.
+A Kernel Design for a Secure Data Base Management System.
+A Comparative Study of Alternative Middle Tier Caching Solutions to Support Dynamic Web Content Acceleration.
+Data Base Management Systems Security and INGRES.
+Curio: A Novel Solution for Efficient Storage and Indexing in Data Warehouses.
+Meaningful Labeling of Integrated Query Interfaces.
+Lazy Database Replication with Snapshot Isolation.
+Discovering Web Services: An Overview.
+Security and Privacy.
+The Performance and Utility of the Cactis Implementation Algorithms.
+Randomized Algorithms for Matrices and Massive Data Sets.
+Memory-Contention Responsive Hash Joins.
+ShreX: Managing XML Documents in Relational Databases.
+Processing Queries Over Generalization Hierarchies in a Multidatabase System.
+Query Optimization in a Heterogeneous DBMS.
+Of Nests and Trees: A Unified Approach to Processing Queries That Contain Nested Subqueries, Aggregates, and Quantifiers.
+The Long-Term Preservation of Authentic Electronic Records.
+Industrial Panel on Data Warehousing Technologies: Experiences, Challenges, and Directions.
+Demonstration: Enabling Scalable Online Personalization on the Web.
+On the Updatability of Relational Views.
+Information Retrieval from an Incomplete Data Cube.
+Active Database Systems (Abstract).
+Capturing and Querying Multiple Aspects of Semistructured Data.
+Business Process Coordination: State of the Art, Trends, and Open Issues.
+A Transactional Model for Long-Running Activities.
+Tertiary Memory Access and Performance in the Datacomputer.
+A Uniform Approach to Processing Temporal Queries.
+DVSS: A Distributed Version Storage Server for CAD Applications.
+Lightweight Flexible Isolation for Language-based Extensible Systems.
+Towards a Spatial Query Language: User Interface Considerations.
+What Do Those Weird XML Types Want, Anyway?
+A Compression Technique for Large Statistical Data-Bases
+A Study of Three Alternative Workstation-Server Architectures for Object Oriented Database Systems.
+Efficient Access of Compressed Data.
+Multiprocessor Hash-Based Join Algorithms.
+Specification, Semantics, and Enforcement of Dynamic Database Constraints.
+GAMMA - A High Performance Dataflow Database Machine.
+Algebraic Specification Schemes for Data Base Systems.
+A Performance Evaluation of Data Base Machine Architectures (Invited Paper)
+A Methodology for the Design and Transformation of Conceptual Schemas.
+Client-Server Paradise.
+A Performance Evaluation of OID Mapping Techniques.
+An Evaluation of Non-Equijoin Algorithms.
+Finding Data in the Neighborhood.
+Practical Skew Handling in Parallel Joins.
+A Multidatabase Transaction Model for InterBase.
+The Semantic Web: Semantics for Data on the Web.
+The Time Index: An Access Structure for Temporal Data.
+An Implementation of Impure Surrogates.
+Conecptual Modeling Using and Extended E-R Model (Abstract).
+Anyone for a VLDB in The Year 2000?
+Efficiently Processing Queries on Interval-and-Value Tuples in Relational Databases.
+A Strategy for Decomposing Complex Queries in a Heterogeneous DDB.
+Analysis of Distributed Data Base Processing Strategies.
+A 20/20 Vision of the VLDB-2020?
+An Enduser Guidance Component for an Intelligent Data Base System.
+Performance and Scalability of Client-Server Database Architectures.
+The TEXTURE Benchmark: Measuring Performance of Text Queries on a Relational DBMS.
+Data Base Theory and Modeling - Theoretical and Practical Aspects.
+Non-Monotonic Knowledge Evolution in VLKDBs.
+Program Analysis for Conversion from a Navigation to a Specification Database Interface.
+Accurate and Efficient Crawling for Relevant Websites.
+Semantic Checking of Questions Expressed in Predicate Calculus Language.
+Incremental Clustering for Mining in a Data Warehousing Environment.
+Estimation of the Number of Tuples Satisfying a Query Expressed in Predicate Calculus Language.
+Functional Specifications of Subsystem for Database Integrity.
+Cooperative Access to Data and Knowledge Baes (Abstract).
+Model-Driven Data Acquisition in Sensor Networks.
+The Power of Methods With Parallel Semantics.
+Experiences in Federated Databases: From IRO-DB to MIRO-Web.
+Adaptive Execution of Variable-Accuracy Functions.
+The hBP-tree: A Modified hB-tree Supporting Concurrency, Recovery and Node Consolidation.
+An Adaptive Algorithm for Incremental Evaluation of Production Rules in Databases.
+The Decomposition Versus Synthetic Approach to Relational Database Design.
+Efficient Implementation of Large-Scale Multi-Structural Databases.
+Coexistence and Transformation of Data.
+Sensor Data Mining: Similarity Search and Pattern Analysis.
+Design of a Signature File Method that Accounts for Non-Uniform Occurrence and Query Frequencies.
+Fast Text Access Methods for Optical and Large Magnetic Disks: Designs and Performance Comparison.
+Analysis of n-Dimensional Quadtrees using the Hausdorff Fractal Dimension
+On B-Tree Indices for Skewed Distributions.
+Recovering Information from Summary Data.
+Modeling Skewed Distribution Using Multifractals and the `80-20' Law.
+Predictive Load Control for Flexible Buffer Allocation.
+SMOQE: A System for Providing Secure Access to XML.
+Query Translation from XPath to SQL in the Presence of Recursive DTDs.
+The Idea of De-Clustering and its Applications.
+Computing Iceberg Queries Efficiently.
+Resource Scheduling in Enhanced Pay-Per-View Continuous Media Databases.
+Query Execution and Index Selection for Relational Data Bases.
+SPIRIT: Sequential Pattern Mining with Regular Expression Constraints.
+Managing a DB2 Parallel Edition Database.
+Scalablity and Availability in Oracle7 7.3.
+Query Engines for Web-Accessible XML Data.
+Data Base and Software Engineering - A Design Viewpoint.
+Database Applications in Developing Countries.
+Two Epoch Algorithms for Disaster Recovery.
+Implementing Xquery 1.0: The Galax Experience.
+Relational link-based ranking.
+Definition and Evaluation of Access Rules in Data Management Systems.
+On Optimal Node Splitting for R-trees.
+Fast Time Sequence Indexing for Arbitrary Lp Norms.
+Implementing Lazy Database Updates for an Object Database System.
+Magic Functions: A Technique to Optimize Extended Datalog Recursive Programs.
+Efficient Discovery of XML Data Redundancies.
+Schema and Database Evolution in the O2 Object Database System.
+Ode as an Active Database: Constraints and Triggers.
+Heterogeneity in the Distributed Database Management System SIRIUS-DELTA.
+OdeFS: A File System Interface to an Object-Oriented Database.
+User Interfaces for Pictorial Data Bases
+Composite Event Specification in Active Databases: Model & Implementation.
+Using New Clues to Find Data.
+RainForest - A Framework for Fast Decision Tree Construction of Large Datasets.
+Determining when a Structure is a Nested Relation.
+The Size of Projections of Relations Satisfying a Functional Dependency.
+Problems/Challenges facing Industry Data Base Users.
+A Dip in the Reservoir: Maintaining Sample Synopses of Evolving Datasets.
+On the minimization of Xpath queries.
+Italian Electronic Identity Card - principle and architecture.
+Processing Object-Oriented Queries with Invertible Late Bound Functions.
+Managing Complex Objects in an Extensible Relational DBMS.
+The BEA/XQRL Streaming XQuery Processor.
+DMS: A Parallel Data Mining Server.
+Using Probabilistic Information in Data Integration.
+Secure Buffering in Firm Real-Time Database Systems.
+Is Web-site Management a Database Problem?
+Conceptual and Internal Schemas in CODASYL.
+Optimization of Run-time Management of Data Intensive Web-sites.
+Keyword Access to a Mass Storage Device at the Record Level.
+A Model and a Method for Logical Data Base Design.
+Distributed Database Systems.
+Optimizing Refresh of a Set of Materialized Views.
+A Cost Model for Clustered Object-Oriented Databases.
+Semantic Adaptation of Schema Mappings when Schemas Evolve.
+High Performance Index Build Algorithms for Intranet Search Engines.
+Hybrid-Range Partitioning Strategy: A New Declustering Strategy for Multiprocessor Database Machines.
+Optimizing Random Retrievals from CLV format Optical Disks.
+Object Placement in Parallel Hypermedia Systems.
+Concepts for Design of an Information System Conceptual Schema and its Utilization in the REMORA Project.
+Some Very Large Data Bases in Developing Countries.
+Queries and Updates in the coDB Peer to Peer Database System.
+Plan Selection Based on Query Clustering.
+Application of DBMS to Land Information Systems
+Cache-conscious Frequent Pattern Mining on a Modern Processor.
+Global Memory Management in Client-Server Database Architectures.
+Distinct Sampling for Highly-Accurate Answers to Distinct Values Queries and Event Reports.
+Local Disk Caching for Client-Server Database Systems.
+Fast Incremental Maintenance of Approximate Histograms.
+Managing Systems That Manage Data.
+Clustering Categorical Data: An Approach Based on Dynamical Systems.
+Translating Aggregate Queries into Iterative Programs.
+Discovering Large Dense Subgraphs in Massive Graphs.
+Masking System Crashes in Database Application Programs.
+Surfing Wavelets on Streams: One-Pass Summaries for Approximate Aggregate Queries.
+Access to Objects by Path Expressions and Rules.
+How to Summarize the Universe: Dynamic Maintenance of Quantiles.
+Scaling and Time Warping in Time Series Querying.
+nD-SQL: A Multi-Dimensional Language for Interoperability and OLAP.
+Implementation of SQL3 Structured Types with Inheritance and Value Substitutability.
+Data Manager for Evolvable Real-time Command and Control Systems.
+A Probabilistic Framework for Vague Queries and Imprecise Information in Databases.
+Interval Queries on Object Histories: Extended Abstract.
+Constructing Efficient Decision Trees by Using Optimized Numeric Association Rules.
+Similarity Search in High Dimensions via Hashing.
+Parameter Free Bursty Events Detection in Text Streams.
+Maximal Vector Computation in Large Data Sets.
+An Efficient Implementation of a Relational Data Base.
+GHOST: Fine Granularity Buffering of Indexes.
+An Overview of The System Software of A Parallel Relational Database Machine GRACE.
+Processing Sliding Window Multi-Joins in Continuous Queries over Data Streams.
+A Theory of Correct Locking Protocols for Database Systems
+The Private Workspace Model Feasibility and Applications to 2PL Performance Improvements.
+ConQuer: A System for Efficient Querying Over Inconsistent Databases.
+Processing Read-Only Queries Over Views With Generalization.
+Nested Mappings: Schema Mapping Reloaded.
+Cost-based Selection of Path Expression Processing Algorithms in Object-Oriented Databases.
+Efficient Numerical Error Bounding for Replicated Network Services.
+Qualified Answers That Reflect User Needs and Preferences.
+Proximity Search in Databases.
+Temporal Logic & Historical Databases.
+DataGuides: Enabling Query Formulation and Optimization in Semistructured Databases.
+Incomplete Information in Relational Temporal Databases.
+Constraints on Null Values in Relational Databases
+A Model of Methods Access Authorization in Object-oriented Databases.
+Contrast Plots and P-Sphere Trees: Space vs. Time in Nearest Neighbour Searches.
+Locating Data Sources in Large Distributed Systems.
+Scheduling Algorithms for Avoiding Inconsistency in Large Databases.
+Line Graph of Gamma-Acyclic Database Schems and its Recognition Algorithm.
+Declarative Data Cleaning: Language, Model, and Algorithms.
+Proving Consistency of Database Transactions.
+Sponsors.
+Database Change Notifications: Primitives for Efficient Database Query Result Caching.
+Calibrating the Query Optimizer Cost Model of IRO-DB, an Object-Oriented Federated Database System.
+Statistics on Views.
+Approximate Query Processing: Taming the TeraBytes.
+Fast, Randomized Join-Order Selection - Why Use Transformations?
+A Modal System of Algebras for Database Specification and Query/Update Language Support.
+Impacts of Logic and Databases (Invited Paper)
+Mind Your Grammar: a New Approach to Modelling Text.
+From a laguna to open waters: Another view on the next generations of databases.
+Querying and Mining Data Streams: You Only Get One Look.
+Improving Performance in Replicated Databases through Relaxed Coherency.
+FlowCube: Constructuing RFID FlowCubes for Multi-Dimensional Analysis of Commodity Flows.
+A Data Base Design Decision Support System.
+Building a Laboratory Information System Around a C++-Based Object-Oriented DBMS.
+Online Balancing of Range-Partitioned Data with Applications to Peer-to-Peer Systems.
+Parallel Query Scheduling and Optimization with Time- and Space-Shared Resources.
+Semantics of Network Data Manipulation Languages: An Object-Oriented Approach.
+Some Large Questions about Very Large Data Bases.
+Design and Analysis of Parametric Query Optimization Algorithms.
+A New Passenger Support System for Public Transport using Mobile Database Access.
+ICICLES: Self-Tuning Samples for Approximate Query Answering.
+Locking and Latching in a Memory-Resident Database System.
+Temporal Slicing in the Evaluation of XML Queries.
+Resource Scheduling for Composite Multimedia Objects.
+Expiring Data in a Warehouse.
+Efficient Algorithms for Processing XPath Queries.
+On Implementing a Language for Specifying Active Database Execution Models.
+Closed World Databases Opened Through Null Values.
+Index Concurrency Control in Firm Real-Time Database Systems.
+Write-Optimized B-Trees.
+The Value of Merge-Join and Hash-Join in SQL Server.
+Hash Joins and Hash Teams in Microsoft SQL Server.
+Dependency Satisfaction in Databases with Incomplete Information.
+Database Decomposition into Fourth Normal Form.
+COMPASS: A Concept-based Web Search Engine for HTML, XML, and Deep Web Data.
+The SphereSearch Engine for Unified Ranked Retrieval of Heterogeneous XML and Web Documents.
+Generalizing GlOSS to Vector-Space Databases and Broker Hierarchies.
+Merging Ranks from Heterogeneous Internet Sources.
+Approximate String Joins in a Database (Almost) for Free.
+The Transaction Concept: Virtues and Limitations (Invited Paper)
+Parity Striping of Disk Arrays: Low-Cost Reliable Storage with Acceptable Throughput.
+Granularity of Locks in a Large Shared Data Base.
+Binding Propagation in Disjunctive Databases.
+Consistency for Web Services Applications.
+Combining Theory and Practice in Integrity Control: A Declarative Approach to the Specification of a Transaction Modification Subsystem.
+ARIEL - A Semantic Front-End to Relational DBMSs.
+The Simplification of Retrieval Requests Generated by Question-Answering Systems.
+Low-Cost Compensation-Based Query Processing.
+Manipulating Interpolated Data is Easier than You Thought.
+Staircase Join: Teach a Relational DBMS to Watch its (Axis) Steps.
+XQuery on SQL Hosts.
+OLAP++: Powerful and Easy-to-Use Federations of OLAP and Object Databases.
+Space Efficiency in Synopsis Construction Algorithms.
+Merging the Results of Approximate Match Operations.
+XWAVE: Approximate Extended Wavelets for Streaming Data.
+Offline and Data Stream Algorithms for Efficient Computation of Synopsis Structures.
+REHIST: Relative Error Histogram Construction Algorithms.
+A Dual Space Representation for Geometric Data.
+Optimizing Multi-Feature Queries for Image Databases.
+Caching with 'Good Enough' Currency, Consistency, and Completeness.
+The Changing Landscape of the Software Industry and its Implications for India
+Aggregate-Query Processing in Data Warehousing Environments.
+What is the Data Warehousing Problem? (Are Materialized Views the Answer?)
+Creating Probabilistic Databases from Information Extraction Models.
+Semantic Queries with Pictures: The VIMSYS Model.
+Optimizing Nested Queries with Parameter Sort Orders.
+Database Graph Views: A Practical Model to Manage Persistent Graphs.
+Gral: An Extensible Relational Database System for Geometric Applications.
+GraphDB: Modeling and Querying Graphs in Databases.
+Link Spam Detection Based on Mass Estimation.
+Link Spam Alliances.
+Combating Web Spam with TrustRank.
+A Foundation for Multi-dimensional Databases.
+BHUNT: Automatic Discovery of Fuzzy Algebraic Constraints in Relational Data.
+Loading a Cache with Query Results.
+Optimizing Queries Across Diverse Data Sources.
+Sampling-Based Estimation of the Number of Distinct Values of an Attribute.
+OPOSSUM: Desk-Top Schema Management through Customizable Visualization.
+GignoMDA - Exploiting Cross-Layer Optimization for Complex Database Applications.
+Managing Derived Data in the Gaea Scientific DBMS.
+Analyzing Transaction Activity to a Large Data Base: An Empirical Study.
+Complex Spatio-Temporal Pattern Queries.
+The Partial Normalized Storage Model of Nested Relations.
+Parallel Execution of Test Runs for Database Application Systems.
+Integrated Data Management for Mobile Services in the Real World.
+An Observation on Database Buffering Performance Metrics.
+Theoretical and Practical Tools for Data Base Design
+A Conceptual Design of a Generalized Database Subsystem.
+Discovering and Ranking Semantic Associations over a Large RDF Metabase.
+Structures, Semantics and Statistics.
+Data Integration: The Teenage Years.
+Getting Priorities Straight: Improving Linux Support for Database I/O.
+The Oracle Warehouse.
+Mixed Mode XML Query Processing.
+ROX: Relational Over XML.
+Networked Data Management Design Points.
+Scheduling for shared window joins over data streams.
+Searching on the Secondary Structure of Protein Sequences.
+Semantic Integrity in a Relational Data Base System.
+Knowledge-Based Query Processing.
+Using Referential Integrity To Easily Define Consistent Subset Replicas.
+Knowledge Discovery in Databases: An Attribute-Oriented Approach.
+Discovery of Multiple-Level Association Rules from Large Databases.
+Data Morphing: An Adaptive, Cache-Conscious Storage Technique.
+Query Processing for Multi-Attribute Clustered Records.
+A Scan-Driven Sort Facility for a Relational Database System.
+PRIMA - a DBMS Prototype Supporting Engineering Applications.
+Evaluating Multiple Server DBMS in General Purpors Operating System Environments.
+Ambiguity in Processing Boolean Queries on TDMS Tree Structures: A Study of Four Different Philosophies.
+XISS/R: XML Indexing and Storage System using RDBMS.
+Search Key Substitution in the Encipherment of B-Trees.
+STEPS towards Cache-resident Transaction Processing.
+Performance Tradeoffs in Read-Optimized Databases.
+User-Oriented Data Base Query with the ROBOT Natural Language Query System.
+A Semantic Model for Data Base Protection Languages.
+Optimization Algorithms for Exploiting the Parallelism-Communication Tradeoff in Pipelined Parallelism.
+Coloring Away Communication in Parallel Query Optimization.
+A Performance Evaluation of Multi-Level Transaction Management.
+Contest of XML Lock Protocols.
+Database Machines.
+Microprocessor Assisted Tuple Access, Decompression and Assembly for Statistical Database Systems.
+WISE-Integrator: An Automatic Integrator of Web Search Interfaces for E-Commerce.
+WISE-Integrator: A System for Extracting and Integrating Complex Web Search Interfaces of the Deep Web.
+An Experiment in Dedicated Data Management.
+Hardware and System Architecture for a Very Large Database.
+A Direct Access Terabit Archival Memory.
+Application Specification for Distributed Data Base Systems.
+G-WHIZ, a Visual Interface for the Functional Model with Recursion.
+Experiences With an Object Manager for a Process-Centered Environment.
+Adaptive Load Control in Transaction Processing Systems.
+Rainbow: Distributed Database System for Classroom Education and Experimental Research.
+Architectures and Algorithms for Internet-Scale (P2P) Data Management.
+Generalized Search Trees for Database Systems.
+Evaluation of Main Memory Join Algorithms for Joins with Set Comparison Join Predicates.
+Estimating the Output Cardinality of Partial Preaggregation with a Measure of Clusteredness.
+Diag-Join: An Opportunistic Join Algorithm for 1:N Relationships.
+Developing a Natural Language Interface to Complex Data.
+The LSD tree: Spatial Access to Multidimensional Point and Nonpoint Objects.
+enTrans: A System for Flexible Consistency Maintenance in Directory Applications.
+Spatial Management of Data (Abstract).
+Very Large Databases in a Commercial Application Environment
+Viator - A Tool Family for Graphical Networking and Data View Creation.
+Datalanguage: The Access Language on the Datacomputer.
+What Is the Nearest Neighbor in High Dimensional Spaces?
+COMBI-Operator: Database Support for Data Mining Applications.
+User Extensions to the Peterlee Relational Test Vehicle.
+Modelling and Querying Video Data.
+Performance of Data-Parallel Spatial Operations.
+Benchmarking Spatial Join Operations with Spatial Output.
+The Use of Cluster Analysis in Physical Data Base Design.
+InteMon: Intelligent System Monitoring on Large Clusters.
+Current Research Into Specialized Processors For Text Information Retrieval.
+Extension Joins.
+Performance of Catalog Management Schemes for Running Access Modules in a Locally Distributed Database System.
+A Privacy-Preserving Index for Range Queries.
+Update Logging for Persistent Programming Languages: A Comparative Performance Evaluation.
+PM3: An Orthogonal Persistent Systems Programming Language - Design, Implementation, Performance.
+Self-Descriptive Relational Data Base.
+Simple and Realistic Data Generation.
+A Unified Approach to Program and Data Conversion.
+A Note on the Survey: ``Future of Database Technology''.
+The Functional Dependency Model for Logical Database Design.
+Distributed Transitive Closure Computations: The Disconnection Set Approach.
+Implementation and Performance Evaluation of a Parallel Transitive Closure Algorithm on PRISMA/DB.
+Algebraic Manipulation of Scientific Datasets.
+A Source-to-Source Meta-Translation System for Relational Query Languages.
+Efficient IR-Style Keyword Search over Relational Databases.
+DISCOVER: Keyword Search in Relational Databases.
+An Opening Statement for the Session in Impact of New Technologies.
+Privacy and Security of Data Communications and Data Bases.
+Database Machine Architecture in the Context of Information Technology Evolution.
+Advanced Database Technologies in a Diabetic Healthcare System.
+Concurrent Operations in Extendible Hashing.
+Distance Indexing on Road Networks.
+Supporting RFID-based Item Tracking Applications in Oracle DBMS Using a Bitmap Datatype.
+An Adaptive Data Placement Scheme for Parallel Database Computer Systems.
+Handling Data Skew in Multiprocessor Database Computers Using Partition Tuning.
+XML Evolution: A Two-phase XML Processing Model Using XML Prefiltering Techniques.
+Spatial Joins Using R-trees: Breadth-First Traversal with Global Optimizations.
+TRAC: Toward Recency and Consistency Reporting in a Database with Distributed Data Sources.
+Experimental Evaluation of Real-Time Optimistic Concurrency Control Schemes.
+Automating Logical File Design.
+Information Protection by Method Base Systems.
+Querying the Internet with PIER.
+Parametric Query Optimization for Linear and Piecewise Linear Cost Functions.
+AniPQO: Almost Non-intrusive Parametric Query Optimization for Nonlinear Cost Functions.
+Parallel Processing of Recursive Queries in Distributed Architectures.
+On Restructuring Nested Relations in Partitioned Normal Form.
+Language Constructs for Programming Active Databases.
+ILOG: Declarative Creation and Manipulation of Object Identifiers.
+A Simulation Model for Performance Analysis of Large Shared Data Bases.
+1-Safe Algorithms for Symmetric Site Configurations.
+A Database Index to Large Biological Sequences.
+Scientific OLAP for the Biotech Domain.
+Multiple-View Self-Maintenance in Data Warehousing Environments.
+An Ultra Highly Available DBMS.
+The ClustRa Telecom Database: High Availability, High Throughput, and Real-Time Response.
+An Analytical Method for Estimating and Interpreting Query Time.
+Disjoint-Interval Topological Sort: A Useful Concept in Serializability Theory (Extended Abstract).
+Providing Dynamic Security Control in a Federated Database.
+Evaluation of Combinatorial File Orgenization Schemes.
+Joining Ranked Inputs in Practice.
+Supporting Top-k Join Queries in Relational Databases.
+CORDS: Automatic Generation of Correlation Statistics in DB2.
+Wireless Graffiti - Data, Data Everywhere Matters.
+Querying in Highly Mobile Distributed Environments.
+On Representing Incomplete Information in a Relational Data Base
+The History of Histograms (abridged).
+A Time Bound on the Materialization of some Recursively Defined Views.
+On the Computation of the Transitive Closure of Relational Operators.
+Commutativity and its Role in the Processing of Linear Recursion.
+Universality of Serial Histograms.
+Personalized Systems: Models and Methods from an IR and DB Perspective.
+ZOO : A Desktop Experiment Management Environment.
+Parametric Query Optimization.
+Histogram-Based Approximation of Set-Valued Query-Answers.
+Efficient Transitive Closure Algorithms.
+Distributed Search over the Hidden Web: Hierarchical Database Sampling and Selection.
+A Designer for DBMS-Processable Logical Database Structures.
+An Active Object-Oriented Database: A Multi-Paradigm Approach to Constraint Management.
+MindReader: Querying Databases Through Multiple Examples.
+Research and Development on Knowledge Bases Systems at ICOT.
+Total Hospital Information System of Komagome Metropolitan Hospital.
+Customizable Parallel Execution of Scientific Stream Queries.
+Continuous K-Nearest Neighbor Queries for Continuously Moving Points with Updates.
+Maintenance of Spatial Semijoin Queries on Moving Points.
+Percentile Finding Algorithm for Multiple Sorted Runs.
+Data Compression Support in Databases.
+Innovation in Database Management: Computer Science vs. Engineering.
+User-Defined Table Operators: Enhancing Extensibility for ORDBMS.
+On Indexing Line Segments.
+Optimal Histograms with Quality Guarantees.
+Multi-Dimensional Substring Selectivity Estimation.
+Dalí: A High Performance Main Memory Storage Manager.
+What can Hierarchies do for Data Warehouses?
+Semantic Compression and Pattern Extraction with Fascicles.
+Incremental Organization for Data Recording and Warehousing.
+BATON: A Balanced Tree Structure for Peer-to-Peer Networks.
+Integrity Maintenance in Object-Oriented Databases.
+Proclamation-Based Model for Cooperating Transactions.
+Recovering from Main-Memory Lapses.
+Grid Data Management Systems & Services.
+Enhancements to the Voting Algorithm.
+Implementing Abstract Objects with Inheritance in Datalog.
+Towards more Informative User Interfaces.
+The Challenge of Process Data Warehousing.
+Data Constructors: On the Integration of Rules and Relations.
+Priority-Hints: An Algorithm for Priority-Based Buffer Management.
+The Development and Application of Data Base Design Tools and Methodology.
+Database Research Strategies of Funding Agencies (Panel).
+Adaptive Cleaning for RFID Data Streams.
+Transaction Timestamping in (Temporal) Databases.
+Query and Update Efficient B+-Tree Based Indexing of Moving Objects.
+Robust Estimation With Sampling and Approximate Pre-Aggregation.
+A Novel Index Supporting High Volume Data Warehouse Insertion.
+Online Estimation For Subset-Based SQL Queries.
+Database Application Development as an Object Modeling Activity.
+Enterprise Information Mashups: Integrating Information, Simply.
+A Performance Study of Query Optimization Algorithms on a Database System Supporting Procedures.
+Mining Frequent Closed Cubes in 3D Datasets.
+GPX: Interactive Mining of Gene Expression Data.
+The BT-tree: A Branched and Temporal Access Method.
+Holistic Twig Joins on Indexed XML Documents.
+Indexing Mixed Types for Approximate Retrieval.
+Selectivity Estimation for Fuzzy String Predicates in Large Data Sets.
+What End-User Facilities do we Need?
+Performance Measurements of Compressed Bitmap Indices.
+Optimizing Queries on Compressed Bitmaps.
+Compressing Large Boolean Matrices using Reordering Techniques.
+Performance Measurements of Tertiary Storage Devices.
+A Heartbeat Mechanism and Its Application in Gigascope.
+2Q: A Low Overhead High Performance Buffer Management Replacement Algorithm.
+An Approach for Building Secure Database Federations.
+Datadict - A Data Analysis and Logical Database Design Tool.
+Adaptive Locking Strategies in a Multi-node Data Sharing Environment.
+Checkpointing in Oracle.
+PARAgrab: A Comprehensive Architecture for Web Image Management and Multimodal Querying.
+Integrating Heterogenous Overlapping Databases through Object-Oriented Transformations.
+ECRINS/86: An Extended Entity-Relationship Data Base Management System and its Semantic Query Language.
+POP/FED: Progressive Query Optimization for Federated Queries in DB2.
+Bidirectional Expansion For Keyword Search on Graph Databases.
+Support for Temporal Data by Complex Objects.
+Extending Logging for Database Snapshot Refresh.
+Efficient Index Structures for String Databases.
+Database Updates through Abduction.
+Data Models Transformation Method Based on Axiomatic Data Model Extension.
+Flexible Relations - Operational Support of Variant Relational Structures.
+A Relational Data Language with Simplified Binary Relation Handling Capability.
+Database Technologies for the 90's and Beyond (Panel).
+Data and Knowledge Bases for Genome Mapping: What Lies Ahead? (Panel).
+Hilbert R-tree: An Improved R-tree using Fractals.
+EUFID: The End User Friendly Interface to Data Management Systems.
+Panel: User's View of Very Large Database Applications.
+Exploiting Versions for On-line Data Warehouse Maintenance in MOLAP Servers.
+A Linear Time Algorithm for Optimal Tree Sibling Partitioning and Approximation Algorithms in Natix.
+Processing Star Queries on Hierarchically-Clustered Fact Tables.
+Reduced Cover-Trees and their Application in the Sabre Access Path Model
+One-Pass Wavelet Synopses for Maximum-Error Metrics.
+Database Experience in the Netherlands PTT (ITCIS).
+PrediCalc: A Logical Spreadsheet Management System.
+Managing Change in a Computer-Aided Design Database.
+Updates for Structure Indexes.
+Two-Phase Deadlock Detection Algorithm in Distributed Databases.
+An Efficient Deadlock Removal Scheme for Non-Two-Phase Locking Protocols.
+Non-Two-Phase Locking Protocols with Shared and Exclusive Locks.
+ServiceGlobe: Distributing E-Services Across the Internet.
+Optimal Grid-Clustering: Towards Breaking the Curse of Dimensionality in High-Dimensional Clustering.
+Choosing a View Update Translator by Dialog at View Definition Time.
+A Deductive Capability for Data Management.
+Optimizing the Rule-Data Interface in a KMS.
+Data Sharing Through Query Translation in Autonomous Sources.
+Don't Be Lazy, Be Consistent: Postgres-R, A New Way to Implement Database Replication.
+Right-, left- and multi-linear rule transformations that maintain context information.
+Dual-Buffering Strategies in Object Bases.
+Generalised Hash Teams for Join and Group-by.
+Advanced Query Processing in Object Bases Using Access Support Relations.
+A Blackboard Architecture for Query Optimization in Object Bases.
+Optimizing Boolean Expressions in Object-Bases.
+New Criteria for the Conceptual Model.
+The Entity Join.
+Splitting the Conceptual Schema.
+Data Model Theory Meets a Practical Application
+Choices in Practical Data Design.
+Solving Domain Mismatch and Schema Mismatch Problems with an Object-Oriented Database Programming Language.
+A Superimposed Coding Scheme Based on Multiple Block Descriptor Files for Indexing Very Large Data Bases.
+Browsing Electronic Mail: Experiences Interfacing a Mail System to a DBMS.
+Exact Indexing of Dynamic Time Warping.
+A Decade of Progress in Indexing and Mining Large Time Series Databases.
+LB_Keogh Supports Exact Indexing of Shapes under Rotation Invariance with Arbitrary Representations and Distance Measures.
+Recent Results on the Attribute Based Data Model - A Tutorial.
+The Database/Data Dictionary Interface.
+A Taxonomy of Data Models.
+A Database Striptease or How to Manage Your Personal Databases.
+Foundations of Preferences in Database Systems.
+On Semantic Reefs and Efficient Processing of Correlation Queries with Aggregates.
+Preference SQL - Design, Implementation, Experiences.
+A Quantitative Comparison of Lockprotocols for Centralized Databases.
+Mining Insurance Data at Swiss Life.
+Detecting Change in Data Streams.
+Indexing Multiple Sets.
+LGeDBMS: A Small DBMS for Embedded System with Flash Memory.
+Versions of Schema for Object-Oriented Databases.
+A Transaction Mechanism for Engineering Design Databases.
+n-Gram/2L: A Space and Time Efficient Two-Level n-Gram Inverted Index Structure.
+The Rubicon of Smart Data.
+QUIST: A System for Semantic Query Optimization in Relational Databases
+Ski: A Semantics-Knowledgeable Interface.
+Freeform: A User-Adaptable Form Management System.
+FaceKit: A Database Interface Design Toolkit.
+The Effect of Bucket Size Tuning in the Dynamic Hybrid GRACE Hash Join Method.
+Bucket Spreading Parallel Hash: A New, Robust, Parallel Hash Join Method for Data Skew in the Super Database Computer (SDC).
+Cascade Hashing.
+A General Model for Version Management in Databases.
+Multirelations - Semantice and Languages.
+Data Base Description with a Single Name Category Data Model.
+Practical Issues with Commercial Use of Federated Databases.
+Modelling Information Preserving Databases: Consequences of the Concept of Time.
+Cache Coherency in Oracle Parallel Server.
+Multiple View Support within the ANSI/SPARC Framework.
+Data File Management in Shift Register Memories.
+Impact of New Technologies.
+Algorithms for Mining Distance-Based Outliers in Large Datasets.
+Finding Intensional Knowledge of Distance-Based Outliers.
+A Data Manipulation Model: An Extension of the Alpha Expression.
+Efficient Processing of Expressive Node-Selecting Queries on XML Data in Secondary Storage: A Tree Automata-based Approach.
+Path Queries on Compressed XML.
+Schema-based Scheduling of Event Processors and Buffer Minimization for Queries on Structured Data Streams.
+FluXQuery: An Optimizing XQuery Processor for Streaming XML Data.
+A Transformational Framework for the Automatic Control of Derived Data
+Voronoi-Based K Nearest Neighbor Search for Spatial Network Databases.
+Combining Histograms and Parametric Curve Fitting for Feedback-Driven Query Result-size Estimation.
+Database-Inspired Search.
+W3QS: A Query System for the World-Wide Web.
+Ratio Rules: A New Paradigm for Fast, Quantifiable Data Mining.
+Reverse Nearest Neighbor Aggregates Over Data Streams.
+Checks and Balances: Monitoring Data Quality Problems in Network Traffic Databases.
+Fast Nearest Neighbor Search in Medical Image Databases.
+High-Performance Extensible Indexing.
+High-Concurrency Locking in R-Trees.
+The Double Life of the Transaction Abstraction: Fundamental Principle and Evolving System Concept.
+Mobile Computing: Fertile Research Area or Black Hole? (Panel).
+A Formal Approach to Recovery by Compensating Transactions.
+Triggered Real-Time Databases with Consistency Constraints.
+SMOOTH - A Distributed Multimedia Database System.
+Shooting Stars in the Sky: An Online Algorithm for Skyline Queries.
+A Data Warehousing Architecture for Enabling Service Provisioning Process.
+Efficient Approximation Of Optimization Queries Under Parametric Aggregation Constraints.
+Identifying Representative Trends in Massive Time Series Data Sets Using Sketches.
+Relaxing Join and Selection Queries.
+Mining Deviants in a Time Series Database.
+Flexible String Matching Against Large Databases in Practice.
+Approximate NN queries on Streams with Guaranteed Error/performance Bounds.
+Data Stream Query Processing: A Tutorial.
+Approximate Joins: Concepts and Techniques.
+Improving Data Access of J2EE Applications by Exploiting Asynchronous Messaging and Caching Services.
+myPortal: Robust Extraction and Aggregation of Web Content.
+Integrity Checking in Deductive Databases.
+CHICAGO: A Test and Evaluation Environment for Coarse-Grained Optimization.
+Coarse-Grained Optimization: Techniques for Rewriting SQL Statement Sequences.
+Vertical Data Migration in Large Near-Line Document Archives Based on Markov-Chain Predictions.
+Updates in a Rule-Based Language for Objects.
+Managing Intervals Efficiently in Object-Relational Databases.
+High Throughput Escrow Algorithms for Replicated Databases.
+Optimization of Nonrecursive Queries.
+The Case for Precision Sharing.
+Efficient XML-to-SQL Query Translation: Where to Add the Intelligence?
+Query Processing on Personal Computers: A Pragmatic Approach (Extended Abstract).
+Query-By-Example: Operations on Piecewise Continuous Data (Extended Abstract).
+Towards a Real Horn Clause Language.
+Query Rewrite for XML in Oracle XML DB.
+The Zero-Delay Data Warehouse: Mobilizing Heterogeneous Databases.
+Efficient Implementation of Loops in Bottom-Up Evaluation of Logic Queries.
+Caprera: An Activity Framework for Transaction Processing on Wide-Area Networks.
+Extracting Large-Scale Knowledge Bases from the Web.
+Performance Evaluation of an Operating System Transaction Manager.
+On the Costs of Multilingualism in Database Systems.
+A Temporal Framework for Database Specification and Verification.
+A Concurrent Database Manipulation Problem: Binary Search Trees (Abstract).
+On Optimistic Methods for Concurrency Control.
+Design Criteria for Distributed Database Systems.
+StreamGlobe: Processing and Sharing Data Streams in Grid-Based P2P Infrastructures.
+Pasta-3's Graphical Query Language: Direct Manipulation, Cooperative Queries, Full Expressive Power.
+Computer and Communication System Development among Financial Institutions in Japan.
+Cooperative Object Buffer Management in the Advanced Information Management Prototype.
+FiST: Scalable XML Document Filtering by Sequencing Twig Patterns.
+Efficient Snapshot Differential Algorithms for Data Warehousing.
+Performance Issues in Incremental Warehouse Maintenance.
+Update Propagation Strategies for Improving the Quality of Data on the Web.
+Balancing Performance and Data Freshness in Web Database Servers.
+Preferences; Putting More Knowledge into Queries.
+Domain-Oriented Relational Languages.
+The Zero Latency Enterprise.
+Semantic Integrity Dependencies and Delayed Integrity Checking.
+Cache Fusion: Extending Shared-Disk Clusters with Shared Caches.
+Distributed Transaction Management in Jasmin.
+The 3W Model and Algebra for Unified Data Mining.
+The Generalized MDL Approach for Summarization.
+Quotient Cube: How to Summarize the Semantics of a Data Cube.
+Efficacious Data Cube Exploration by Semantic Summarization and Compression.
+On Testing Satisfiability of Tree Pattern Queries.
+SchemaSQL - A Language for Interoperability in Relational Multi-Database Systems.
+On Efficiently Implementing SchemaSQL on an SQL Database System.
+Answering Tree Pattern Queries Using Views.
+Selectivity Estimation in Extensible Databases - A Neural Network Approach.
+RTMonitor: Real-Time Data Monitoring Using Mobile Agent Technologies.
+Language Support for Office Modelling.
+A New Presumed Commit Optimization for Two Phase Commit.
+Biodiversity Informatics: The Challenge of Rapid Development, Large Databases, and Complex Data (Keynote).
+An Architectural Extension for a Large Database System Incorporating a Processor for Disk Search.
+Extending the Search Strategy in a Query Optimizer.
+On the Effectiveness of Optimization Search Strategies for Parallel Execution Spaces.
+Linear Hashing with Partial Expansions.
+A Single-File Version of Linear Hashing with Partial Expansions.
+Computing Queries from Derived Relations.
+View Matching for Outer-Join Views.
+An Integrated Approach to Recovery and High Availability in an Updatable, Distributed Data Warehouse.
+The gRNA: A Highly Programmable Infrastructure for Prototyping, Developing and Deploying Genomics-Centric Applications.
+Pre-Analysis Locking: A Safe and Deadlock Free Locking Policy.
+Query Languages and Data Models for Database Sequences and Data Streams.
+Early Hash Join: A Configurable Algorithm for the Efficient and Early Production of Join Results.
+Reflections on Boyce-Codd Normal Form.
+Limiting Disclosure in Hippocratic Databases.
+The O2 Database Programming Language.
+Implementing Queries and Updates on Universal Scheme Interfaces.
+Implementing an Interpreter for Functional Rules in a Query Optimizer.
+Supporting Frequent Updates in R-Trees: A Bottom-Up Approach.
+Efficient Incremental Maintenance of Data Cubes.
+Further Improvements on Integrity Constraint Checking for Stratifiable Deductive Databases.
+Unrolling Cycles to Decide Trigger Termination.
+A Region Splitting Strategy for Physical Database Design of Multidimensional File Organizations.
+A One-Pass Aggregation Algorithm with the Optimal Buffer Size in Multidimensional OLAP.
+An Analytic Approach to Statistical Databases.
+Data Mining with the SAP Netweaver BI Accelerator.
+A Study of Index Structures for Main Memory Database Management Systems.
+The Starburst Long Field Manager.
+A Search Processor for Data Base Management Systems.
+Randomizing, A Practical Method for Protecting Statistical Databases Against Compromise.
+Optimizing Result Prefetching in Web Search Engines with Segmented Indices.
+On The Satisfiability of Dependency Constraints in Entity-Relationship Schemata.
+Information Systems Design Approach Integrating Data and Transactions
+AQuery: Query Language for Ordered Data, Optimization Techniques, and Experiments.
+Experiments on Access to Digital Libraries: How can Images and Text be Used Together.
+Efficient Search of Multi-Dimensional B-Trees.
+Temporal Query Processing and Optimization in Multiprocessor Database Machines.
+File Processing Efficiency on the Content Addressable File Store.
+Obtaining Complete Answers from Incomplete Databases.
+Query Optimization by Predicate Move-Around.
+Querying Heterogeneous Information Sources Using Source Descriptions
+Queries Independent of Updates.
+Challenges for Global Information Systems.
+Managing Business Processes via Workflow Technology.
+Grid and Applications (Industrial Session).
+QoS-based Data Access and Placement for Federated Information Systems.
+Facilitating Multimedia Database Exploration through Visual Interfaces and Perpetual Query Reformulations.
+Cache Portal: Technology for Accelerating Database-driven e-commerce Web Sites.
+Safety Guarantee of Continuous Join Queries over Punctuated Data Streams.
+High-Dimensional OLAP: A Minimal Cubing Approach.
+Hubble: An Advanced Dynamic Folder Technology for XML.
+Issues and Evaluations of Caching Solutions for Web Application Acceleration.
+CachePortal II: Acceleration of Very Large Scale Data Center-Hosted Database-driven Web Applications.
+Aggregation Algorithms for Very Large Compressed Data Warehouses.
+A New Compression Method with Fast Searching on Large Databases.
+RankSQL: Supporting Ranking Queries in Relational Database Management Systems.
+CMD: A Multidimensional Declustering Method for Parallel Data Systems.
+Schema-Free XQuery.
+Multivalued Dependencies with Null Values in Relational Data Bases.
+DSIS - A Database System with Interrelational Semantics
+Binary Search Tree Complex - Towards the Implementation of Relations.
+I/O-Conscious Data Preparation for Large-Scale Web Search Engines.
+Automating the design of multi-dimensional clustering tables in relational databases.
+XPathLearner: An On-line Self-Tuning Markov Histogram for XML Path Selectivity Estimation.
+SASH: A Self-Adaptive Histogram Set for Dynamically Changing Workloads.
+CXHist : An On-line Classification-Based Histogram for XML String Selectivity Estimation.
+VizTree: a Tool for Visually Mining and Monitoring Massive Time Series Databases.
+Multiscale Histograms: Summarizing Topological Relations in Large Spatial Datasets.
+Basic Timestamp, Multiple Version Timestamp, and Two-Phase Locking.
+Querying Continuous Time Sequences.
+The Design of a Rotating Associative Array Memory for a Relational Database Management Application.
+Encoding, Decoding and Storing Melodies for a Data Base of Renaissance Polyphony: A Progress Report.
+DB2 Common Server: Technology, Progress, & Directions.
+Hierarchical Compact Cube for Range-Max Queries.
+Rapid Application Prototyping the PROQUEL Language.
+Behaviour Management in Database Applications.
+Design and Implementation of an Extensible Database Management System Supporting User Defined Data Types and Functions.
+On Semantic Issues Connected with Incomplete Information Data Bases (Abstract).
+Estimating the Size of Generalized Transitive Closures.
+Virtual Hashing: A Dynamically Changing Hashing.
+Linear Hashing: A New Tool for File and Table Addressing.
+LH*RS: A Highly Available Distributed Data Storage.
+RP*: A Family of Order Preserving Scalable Distributed Data Structures.
+The Design of GridDB: A Data-Centric Overlay for the Scientific Grid.
+A-TOPSS - A Publish/Subscribe System Supporting Approximate Matching.
+A-ToPSS: A Publish/Subscribe System Supporting Imperfect Information Processing.
+Capturing Global Transactions from Multiple Recovery Log Files in a Partitioned Database System.
+Activity Model: A Declarative Approach for Capturing Communication Behavior in Object-Oriented Databases.
+Efficient XSLT Processing in Relational Database System.
+Revisiting Pipelined Parallelism in Multi-Join Query Processing.
+A Dynamically Adaptive Distributed System for Processing Complex Continuous Queries.
+Using Versions in Update Transactions: Application to Integrity Checking.
+An Interactive Query Language for External Data Bases.
+The Network as a Global Database: Challenges of Interoperability, Proactivity, Interactiveness, Legacy.
+Optimization of Nested Queries in a Distributed Relational Database.
+SMART: Making DB2 (More) Autonomic.
+Digital B-Trees
+Key Range Locking Strategies for Improved Concurrency.
+Exploiting A History Database for Backup.
+Redo Recovery after System Crashes.
+Optimized Query Execution in Large Search Engines with Global Page Ordering.
+Enhancing P2P File-Sharing with an Internet-Scale Query Processor.
+A Low Communication Sort Algorithm for a Parallel Database Machine.
+A Denotational Definition of the Semantics of DRC, A Domain Relational Calculus.
+The REMIT System for Paraphrasing Relational Query Expressions into Natural Language.
+A Survey: The Application of Data Base Management Computers in Distributed Systems.
+Database Research at MCC (Abstract).
+Relational Transformation and a Redundancy in Relational Data Base.
+Computing Facts in Non-Horn Deductive Systems.
+From Region Encoding To Extended Dewey: On Efficient Processing of XML Twig Pattern Matching.
+On Spatially Partitioned Temporal Join.
+NeuroRule: A Connectionist Approach to Data Mining.
+Optimization of Multi-Way Join Queries for Parallel Execution.
+The Fittest Survives: An Adaptive Approach to Query Optimization.
+Hash-Based Join Algorithms for Multiprocessor Computers.
+Systematic Development of Data Mining-Based Data Quality Tools.
+Implementation of the IRRD Data Base in Portugal.
+Model-Based Information Integration in a Neuroscience Mediator System.
+A Transducer-Based XML Query Processor.
+1978 New Orleans Data Base Design Workshop Report.
+Form-Based Proxy Caching for Database-Backed Web Sites.
+Locking Protocols for Materialized Aggregate Join Views.
+Database Concurrent Processor.
+Selectivity Estimation and Query Optimization in Large Databases with Highly Skewed Distribution of Column Values.
+Application of Data Compression to a Large Bibliographic Data Base
+Extended User-Defined Indexing with Application to Textual Databases.
+An Approach to Object Sharing in Distributed Datbase Systems.
+A Personal Data Manager.
+Sybase IQ Multiplex - Designed For Analytics.
+R* Optimizer Validation and Performance Evaluation for Distributed Queries.
+A Model for Integrated Information Systems.
+Generic Schema Matching with Cupid.
+Composing Mappings Among Data Sources.
+The Voice of the Customer: Innovative and Useful Research Directions (Panel).
+From VLDB to VMLDB (Very MANY Large Data Bases): Dealing with Large-Scale Semantic Heterogenity.
+ACTIVIEW: Adaptive data presentation using SuperSQL.
+Optimal Allocation of Resources in Distributed Information Networks.
+Extending an ORDBMS: The StateMachine Module.
+Modelling Non Deterministic Queries and Updates in Deductive Databases.
+A Consideration on Normal Form of Not-Necessarily-Normalized Relation in the Relational Data Model.
+The Optimization Strategy for Query Evaluation in RDB/V1
+Database Management Systems and the Internet
+Critical Database Technologies for High Energy Physics.
+Aggregate Evaluability in Statistical Databases.
+On the Feasibility of Implementing a Large Relational Data Base with Optimal Performance on a Mini-Computer.
+Query Caching and View Selection for XML Databases.
+What Happens During a Join? Dissecting CPU and Memory Optimization Effects.
+Generic Database Cost Models for Hierarchical Memory Systems.
+Cache-Conscious Radix-Decluster Projections.
+Approximate Frequency Counts over Data Streams.
+Dependency Inference.
+On Relating the CODASYL Database Languages and the ANSI/SPARC Framework.
+Data Base Research Projects and Funding.
+A Review of the 1978 CODASYL Database Specifications.
+Toward a General Spatial Data Model for an Object-Oriented DBMS.
+Answering XML Queries on Heterogeneous Data Sources.
+Agora: Living with XML and Relational.
+CP: Clustering based on Closest Pairs.
+A Language for Manipulating Arrays.
+NetCube: A Scalable Tool for Fast Data Mining and Compression.
+Projecting XML Documents.
+Consistently Estimating the Selectivity of Conjuncts of Predicates.
+Referential Integrity Revisited: An Object-Oriented Perspective.
+Safe Referential Structures in Relational Databases.
+The Integrated Microbial Genomes (IMG) System: A Case Study in Biological Data Management.
+Incremental Reorganization of Relational Databases.
+On Processing XML in LDAP.
+Relating Distributed Objects.
+Dealing with Temporal Schema Anomalies in History Databases.
+A DBMS Architecture to Support Information Analysis (Abstract).
+A Relational Database View Update Translation Mechanism.
+Dynamic Maintenance of Wavelet-Based Histograms.
+Persistent Threads.
+Integrating Information for On Demand Computing.
+Supporting Procedural Constructs in SQL Compilers.
+An Injection of Tree Awareness: Adding Staircase Join to PostgreSQL.
+Adaptive Density Estimation.
+Mapping Maintenance for Data Integration Systems.
+Metadata Management for Large Statistical Databases.
+High Performance Hardware for Database Systems.
+Query Optimization for XML.
+EROC: A Toolkit for Building NEATO Query Optimizers.
+RoadRunner: Towards Automatic Data Extraction from Large Web Sites.
+Understanding the Implications of View Update Policies.
+Data Base Support and Interactive Graphics.
+V-Trees - A Storage Method for Long Vector Data.
+OASIS: An Online and Accurate Technique for Local-alignment Searches on Biological Sequences.
+Dynamic Memory Allocation for Multiple-Query Workloads.
+Managing Intra-operator Parallelism in Parallel Database Systems.
+Providing Database Migration Tools - A Practicioner's Approach.
+A Surrogate Concept for Engineering Databases.
+Using a Fuzzy Classification Query Language for Customer Relationship Management.
+Monitoring Integrity Constraints in a CODASYL-Like DBMS.
+Structure and Redundancy in the Conceptual Schema in the Administration of Very Large Data Bases.
+On the Design of a Reliable Storage Component for Distributed Database Management Systems.
+Functional Dependencies in Logic Programs.
+Generalized Mutual Dependencies and the Decomposition of Database Relations.
+Indexing Temporal XML Documents.
+Temporal Queries in OLAP.
+Finding Regular Simple Paths in Graph Databases.
+OrientStore: A Schema Based Native XML Storage System.
+Determining Text Databases to Search in the Internet.
+A Study of Sort Algorithms for Multiprocessor Database Machines.
+Design and Analysis of a Relational Join Operation for VLSI
+A New SQL-like Operator for Mining Association Rules.
+Scheduling of Page-Fetches in Join Operations
+Distribution Models of Relations.
+Information Processing Systems in a Database Environment.
+Using Association Rules for Fraud Detection in Web Advertising Networks.
+KLEE: A Framework for Distributed Top-k Query Algorithms.
+Change-Centric Management of Versions in an XML Warehouse.
+A Single Pass Computing Engine for Interactive Analysis of VLDBs.
+Controlling Access to Published Data Using Cryptography.
+SVM in Oracle Database 10g: Removing the Barriers to Widespread Adoption of Support Vector Machines.
+Schema Mapping as Query Discovery.
+The Use of Information Capacity in Schema Integration and Translation.
+A Scalable Architecture for Autonomous Heterogeneous Database Interactions.
+Using Schema Matching to Simplify Heterogeneous Data Translation.
+MapInfo SpatialWare: A Spatial Information Server for RDBMS.
+MineSet(tm): A System for High-End Data Mining and Visualization.
+Synergistic Authorization in Database Systems
+Quality Views: Capturing and Exploiting the User Perspective on Data Quality.
+Control of an Extensible Query Optimizer: A Planning-Based Approach.
+Automatic Data Base Schema Design and Optimization.
+Trustworthy Keyword Search for Regulatory-Compliant Record Retention.
+Extending the Relational Algebra to Capture Complex Objects.
+Hierarchical Performance Analysis Models for Data Base Systems.
+Implementation of a Fuzzy-Set Theoretic Data Structure System (Abstract).
+Performance Evaluation of an Adaptive and Robust Load Control Method for the Avoidance of Data-Contention Thrashing.
+Incorporating XSL Processing into Database Engines.
+Small Materialized Aggregates: A Light Weight Index Structure for Data Warehousing.
+Analysis of Two Existing and One New Dynamic Programming Algorithm for the Generation of Optimal Bushy Join Trees without Cross Products.
+Hot Block Clustering for Disk Arrays with Dynamic Striping.
+Caching Technologies for Web Applications.
+Application Servers and Associated Technologies.
+An Efficient Method for Performing Record Deletions and Updates Using Index Scans.
+ARIES/KVL: A Key-Value Locking Method for Concurrency Control of Multiaction Transactions Operating on B-Tree Indexes.
+Commit_LSN: A Novel and Simple Method for Reducing Locking and Latching in Transaction Processing Systems.
+A Cost-Effective Method for Providing Improved Data Availability During DBMS Restart Recovery After a Failure.
+DWMS: Data Warehouse Management System.
+Repeating History Beyond ARIES.
+Evolution of Groupware for Business Applications: A Database Perspective on Lotus Domino/Notes.
+Recovery and Coherency-Control Protocols for Fast Intersystem Page Transfer and Fine-Granularity Locking in a Shared Disks Transaction Environment.
+IPAC - An Interactive Approach to Access Control for Semi-structured Data.
+Some Issues in Design of Distributed Deductive Databases.
+The New Casper: Query Processing for Location Services without Compromising Privacy.
+PLACE: A Query Processor for Handling Real-time Spatio-temporal Data Streams.
+Concurrency Control in B+-Trees Databases Using Preparatory Operations.
+DISNIC-PLAN: A NICNET Based Distributed Database for Micro-level Planning in India.
+The Active Information System: A Data-Driven System for the Analysis of Imprecise Data
+CURE for Cubes: Cubing Using a ROLAP Engine.
+Active Databases as a Paradigm for Enhanced Computing Environments.
+Constraint Equations: Declarative Expression of Constraints With Automatic Enforcement.
+Database Technology for Reliable Systems: Issues, Impact, and Approaches (Panel).
+A Very Large Database System to Serve National Welfare.
+Algorithms for Mining Association Rules for Binary Segmentations of Huge Categorical Databases.
+Efficient Construction of Regression Trees with Range and Region Splitting.
+Enabling End-users to Construct Data-intensive Web-sites from XML Repositories: An Example-based Approach.
+Retrieval-By-Unification Operation on a Relational Knowledge Base.
+Tree-Pattern Queries on a Lightweight XML Processor.
+L/MRP: A Buffer Management Strategy for Interactive Continuous Data Flows in a Multimedia DBMS.
+Log-Based Recovery for Nested Transactions.
+Completeness Information and Its Application to Query Processing.
+Using Integrity Constraints to Provide Intensional Answers to Relational Queries.
+Continuous Nearest Neighbor Monitoring in Road Networks.
+BioPatentMiner: An Information Retrieval System for BioMedical Patents.
+Building Conference Proceedings Requires Adaptable Workflow and Content Management.
+Unified Dynamic Hashing.
+The Magic of Duplicates and Aggregates.
+Performance Analysis of Disk Arrays under Failure.
+A Requirement-Based Approach to Data Modeling and Re-Engineering.
+Application of Sub-Predicate Tests in Database Systems.
+Optimization and Dataflow Algorithms for Nested Tree Queries.
+Improved Unnesting Algorithms for Join Aggregate SQL Queries.
+Concepts of Sorting and Projection in a Cellular Array
+File Redundancy Issues in Distributed Database Systems.
+Effective Resource Utilization for Multiprocessor Join Execution.
+XML Schemas in Oracle XML DB.
+Design, Implementation, and Performance of the LHAM Log-Structured History Data Access Method.
+Software Repositories.
+Some Features of the TAXIS Data Model.
+Towards Robustness in Query Auditing.
+Database Challenges in the Integration of Biomedical Data Sets.
+An Approach to Data Communication between Different Generalized Data Base Management Systems.
+An Analysis of Storage Utilization Factor in Block Split Data Structuring Scheme.
+Hash-Partitioned Join Method Using Dynamic Destaging Strategy.
+Some Analytic Tools for the Design of Relational Database Systems.
+Answering Imprecise Queries over Web Databases.
+Delay Aware Querying with Seaweed.
+Tavant System Architecture for Sell-side Channel Management.
+IrisNet: An Architecture for Internet-scale Sensing Services.
+Supporting Incremental Join Queries on Ranked Inputs.
+How to Forget the Past Without Repeating It.
+Argument Reduction by Factoring.
+Quality-driven Integration of Heterogenous Information Systems.
+Schema Analysis for Database Restructuring.
+An Intuitive Approach to Normalize Network Structured Data.
+Databases for Computer Aided Design and Manufacturing.
+Restructuring for Large Data Bases: Three Levels of Abstraction.
+A Methodology for View Inegration in Logical Database Design.
+Databases for Expert Systems.
+Relationship Merging in Schema Integration.
+Recursive Strategies for Answering Recursive Queries - The RQA/FQI Strategy.
+Integration of Data Mining with Database Technology.
+POREL: A Distributed Data Base on an Inhomogeneous Computer Network.
+Dynamic Derivation of Personalized Views.
+Consistency and Transactions in CAD Database.
+A Combined Framework for Grouping and Order Optimization.
+Expert Database Support for Consistent Dynamic Objects.
+Some Comments on Human Archival Memory as a Very Large Data Base.
+NexusScout: An Advanced Location-Based Application on a Distributed, Open Mediation Platform.
+Native XML Support in DB2 Universal Database.
+Mutual Dependencies and Some Results on Undecomposable Relations.
+BibFinder/StatMiner: Effectively Mining and Using Coverage and Overlap Statistics in Data Integration.
+ProTDB: Probabilistic Data in XML.
+An Object-Oriented Environment for OIS Applications.
+Generating Call-Level Interfaces for Advanced Database Application Programming.
+TOPAZ: a Cost-Based, Rule-Driven, Multi-Phase Parallelizer.
+Functional Properties of Information Filtering.
+Cooperative Transaction Hierarchies: A Transaction Model to Support Design Applications.
+Measured Performance of Time Interval Concurrency Control Techniques.
+MERLIN - Design of a National Bibliographic Database.
+Asera: Extranet Architecture for B2B Solutions.
+eBusiness Standards and Architectures.
+The Persistent Cache: Improving OID Indexing in Temporal Object-Oriented Database Systems.
+French government activity in the conservation of data and electronic documents.
+Trends in Data Warehousing: A Practitioner's View.
+Where is Business Intelligence taking today's Database Systems?
+Collaborative Analytical Processing - Dream or Reality? (Panel abstract).
+Objectivity Industrial Exhibit.
+Effective & Efficient Document Ranking without using a Large Lexicon.
+Contextual Insight in Search: Enabling Technologies and Applications.
+Experiments on Query Expansion for Internet Yellow Page Services Using Web Log Mining.
+A Family of Incomplete Relational Database Models.
+On the design and implementation of information systems from deductive conceptual models.
+Integrity Constraints Checking In Deductive Databases.
+Simple Random Sampling from Relational Databases.
+Random Sampling from B+ Trees.
+Why Search Engines are Used Increasingly to Offload Queries from Databases.
+Offering a Precision-Performance Tradeoff for Aggregation Queries over Replicated Data.
+Estimating Response Time for Auxiliary Memory Configuartions with Multiple Movable-Head Disk Modules.
+Incremental File Reorganization Schemes.
+Performance Analysis of a Load Balancing Hash-Join Algorithm for a Shared Memory Multiprocessor.
+Measuring the Complexity of Join Enumeration in Query Optimization.
+Fast High-Dimensional Data Search in Incomplete Databases.
+Indexing the Distance: An Efficient Method to KNN Processing.
+Statistice for the Usage of a Conceptual Data Model as a Basis for Logical Data Base Design.
+A Dynamic Hash File for Random and Sequential Accessing.
+Starting (and Sometimes Ending) a Database Company.
+Accessing a Relational Database through an Object-Oriented Database Interface.
+Compact 0-Complete Trees.
+Towards a Universal Relation Interface.
+The Making of TPC-DS.
+A Mapping Function for the Directory of a Multidimensional Extendible Hashing.
+Georgraphic Information Systems, A Challenge for the 90's (Panel).
+A Top-Down Approach for Two Level Serializability.
+A Low-Cost Storage Server for Movie on Demand Databases.
+Storage Service Providers: a Solution for Storage Management? (Panel).
+Microprocessor Based Modular Database Processors.
+Dynamic and Order Preserving Data Partitioning for Database Machines.
+Sideway Value Algebra for Object-Relational Databases.
+Statistical Databases.
+Distributed Database Management: Current State-of-the-Art, Unsolved Problems, New Issues (Abstract).
+An Extendible Hash for Multi-Precision Similarity Querying of Image Databases.
+An Asynchronous Avoidance-Based Cache Consistency Algorithm for Client Caching DBMSs.
+Fast Algorithms for Maintaining Replica Consistency in Lazy Master Replicated Databases.
+Extracting Large Data Sets using DB2 Parallel Edition.
+XQuery Implementation in a Relational Database System.
+Indexing XML Data Stored in a Relational Database.
+Record Subtype Facilities in Database Systems.
+Fido: A Cache That Learns to Fetch.
+Indexing Large Human-Motion Databases.
+Incremental Maintenance for Non-Distributive Aggregate Functions.
+The Denodo Data Integration Platform.
+Indexing for Function Approximation.
+WIC: A General-Purpose Algorithm for Monitoring Web Information Sources.
+Shuffling a Stacked Deck: The Case for Partially Randomized Ranking of Search Engine Results.
+Memory-Adaptive External Sorting.
+A Case-Based Approach to Information Integration.
+An Alternative Structure for Data Base Management Systems.
+Algorithms for Querying by Spatial Structure.
+MV3R-Tree: A Spatio-Temporal Access Method for Timestamp and Interval Queries.
+The TPR*-Tree: An Optimized Spatio-Temporal Access Method for Predictive Queries.
+Query Processing in Spatial Network Databases.
+Adaptive, Hands-Off Stream Mining.
+Streaming Pattern Discovery in Multiple Time-Series.
+RadixZip: Linear-Time Compression of Token Streams.
+Object Fusion in Mediator Systems.
+Pattern Tree Algebras: Sets or Sequences?
+Design and Development of a Stream Service in a Heterogenous Client Environment.
+CheeTah: a Lightweight Transaction Server for Plug-and-Play Internet Data Management.
+Structural Function Inlining Technique for Structurally Recursive XML Queries.
+Knowledge-Bases and Database Engineering.
+Algorithmic Applications for a new Result on Multivalued Dependencies.
+SVP: A Model Capturing Sets, Lists, Streams, and Parallelism.
+Efficient and Decentralized PageRank Approximation in a Peer-to-Peer Web Search Network.
+Information Management for Genome Level Bioinformatics.
+The Need for Data Quality.
+Managing Text as Data.
+The TreeScape System: Reuse of Pre-Computed Aggregates over Irregular OLAP Hierarchies.
+Extending Practical Pre-Aggregation in On-Line Analytical Processing.
+A Computer Architecture for Large (Distributed) Data Bases.
+EEV Evaluation and Implementation of Database Systems.
+Catching the Best Views of Skyline: A Semantic Approach Based on Decisive Subspaces.
+Empirical Comparison of Database Concurrency Schemes.
+The Complexity of Transformation-Based Join Enumeration.
+Application of Novel Technologies to the Management of a Very Large Date Base.
+WebFilter: A High-throughput XML-based Publish and Subscribe System.
+Publish/Subscribe on the Web at Extreme Speed.
+S-ToPSS: Semantic Toronto Publish/Subscribe System.
+CMS-ToPSS: Efficient Dissemination of RSS Documents.
+Novel Approaches in Query Processing for Moving Object Trajectories.
+Telidon and the Human Factors of Videotex Data Bases.
+A Data Modeling Approach to Simplify the Design of User Interfaces.
+Fundamental and Secondary Issues in the Design of Non-Procedural Relational Languages.
+Materialization: A Powerful and Ubiquitous Abstraction Pattern.
+Designing A Generalized NF2 Model with an SQL-Type Language Interface.
+Exploiting Versions for Handling Updates in Broadcast Disks.
+Integrity Constraint and Rule Maintenance in Temporal Deductive Knowledge Bases.
+Generating Thousand Benchmark Queries in Seconds.
+Large Scale Data Warehouses on Grid: Oracle Database 10g and HP ProLiant Systems.
+Oracle Industrial Exhibit.
+Disk Mirroring with Alternating Deferred Updates.
+Structure and Value Synopses for XML Data Graphs.
+Towards a Formal Approach for Object Database Design.
+Mixed concurrency control: Dealing with heterogeneity in distributed database systems.
+Estimation of Query-Result Distribution and its Application in Parallel-Join Load Balancing.
+Selectivity Estimation Without the Attribute Value Independence Assumption.
+Translating Web Data.
+Data Compression in Oracle.
+Quintillabit: Parameters of a Hyperlarge Database.
+Merging Models Based on Given Correspondences.
+A Scalable Algorithm for Answering Queries Using Views.
+A Functional Programming Approach to Deductive Databases.
+A Domain-theoretic Approach to Integrating Functional and Logic Database Languages.
+Investigation of Algebraic Query Optimisation Techniques for Database Programming Languages.
+In Cyber Space No One can Hear You Scream.
+Towards an Optimal Data-Structure: CB-trees.
+An Algebraic Query Model for Effective and Efficient Retrieval of XML Fragments.
+Hardware Organization for Nonnumeric Processing
+Split-Transactions for Open-Ended Activities.
+Efficient Main Memory Data Management Using the DBGraph Storage Model.
+Synthesizing Database Transactions.
+Integrity Constraint Reformulation for Efficient Validation.
+Knowledge-based Integrity Constraint Validation.
+The ND-Tree: A Dynamic Indexing Technique for Multidimensional Non-ordered Discrete Data Spaces.
+A Methodologic Guide-Line for the Instalation of Data Base Development Tools and Data Administration Tools: Two Case Studies from Brazil.
+Natural Language Data Bases.
+An Information-Retrieval Approach for Image Databases.
+Loading the Data Warehouse Across Various Parallel Architectures
+Crawling the Hidden Web.
+Complex Queries over Web Repositories.
+Analysis of Dynamic Load Balancing Strategies for Parallel Shared Nothing Database Systems.
+Dynamic Multi-Resource Load Balancing in Parallel Database Systems.
+Scientific Journals: Extinction or Explosion? (Panel).
+Modeling Design Versions.
+The MR Diagram - A Model for Conceptual Database Design.
+Rule Ordering in Bottom-Up Fixpoint Evaluation of Logic Programs.
+CORAL - Control, Relations and Logic.
+Architectural Issues in Distributed Data Base Systems.
+Social, Educational, and Governmental Change Enabled through Information Technology.
+Real-Time Databases (Panel).
+A Case for Fractured Mirrors.
+Potter's Wheel: An Interactive Data Cleaning System.
+Parallel Querying with Non-Dedicated Computers.
+Progressive Optimization in Action.
+Online Dynamic Reordering for Interactive Data Processing.
+How to Wring a Table Dry: Entropy Compression of Relations and Querying of Compressed Relations.
+Covering Indexes for XML Queries: Bisimulation - Simulation = Negation.
+Set Containment Joins: The Good, The Bad and The Ugly.
+E.piphany Epicenter Technology Overview.
+On the Discovery of Interesting Patterns in Association Rules.
+Integrating the UB-Tree into a Database System Kernel.
+Champagne: Data Change Propagation for Heterogeneous Information Systems.
+A Deferred Cleansing Method for RFID Data Analytics.
+Cache Conscious Indexing for Decision-Support in Main Memory.
+A Parallel Processing Strategy for Evaluating Recursive Queries.
+A Trajectory Splitting Model for Efficient Spatio-Temporal Indexing.
+PUBLIC: A Decision Tree Classifier that Integrates Building and Pruning.
+A Multi-Resolution Relational Data Model.
+Analyzing Plan Diagrams of Database Query Optimizers.
+Solving the Phantom Problem by Predicative Optimistic Concurrency Control.
+Compact Histograms for Hierarchical Identifiers.
+Data Models for Secondary Storage Representations.
+How System 11 SQL Server Became Fast.
+Minimizing the I/O-Operations for Undo-Logging in Database Systems.
+Databases and Workflow Management: What is it All About? (Panel).
+The Heterogeneity Problem and Middleware Technology: Experiences with and Performance of Database Gateways.
+Bridging Heterogeneity: Research and Practice of Database Middleware Technology.
+Supporting Lists in a Data Model (A Timely Approach).
+IML-Inscribed Nets for Modeling Text Processing and Data (Base) Management Systems
+Active Storage for Large-Scale Data Mining and Multimedia.
+Distributed Data Processing Versus Distributed Data Base Processing
+Production Program Generation in a Flexible Data Dictionary System.
+Monitoring Database Objects.
+Semantic Access: Semantic Interface for Querying Databases.
+Maintaining Data Privacy in Association Rule Mining.
+A Multi-Purpose Implementation of Mandatory Access Control in Relational Database Management Systems.
+GMine: A System for Scalable, Interactive Graph Visualization and Mining.
+Data Sharing in the Hyperion Peer Database System.
+FAS - A Freshness-Sensitive Coordination Middleware for a Cluster of OLAP Components.
+Tools for Information System Dynamics Management.
+Recovery Principles in MySQL Cluster 5.1.
+Processing Conjunctive Predicates and Queries.
+Anatomy of a Mudular Multiple Query Optimizer.
+Situation Monitoring for Active Databases.
+An Example of Knowledge-Based Query Processing in a CAD/CAM DBMS.
+Extending the Algebraic Framework of Query Processing to Handle Outerjoins.
+Data Integration in the Large: The Challenge of Reuse.
+Security of Shared Data in Large Systems: State of the Art and Research Directions.
+A Faceted Query Engine Applied to Archaeology.
+Symmetric Relations and Cardinality-Bounded Multisets in Database Systems.
+Fast Computation of Sparse Datacubes.
+Database Support for Hypertext.
+Cost Models DO Matter: Providing Cost Information for Diverse Data Sources in a Federated System.
+Don't Scrap It, Wrap It! A Wrapper Architecture for Legacy Data Sources.
+ARIES/NT: A Recovery Method Based on Write-Ahead Logging for Nested Transactions.
+Distributed Database Management.
+A Survey of Research and Development in Distributed Database Management.
+Fixed-point semantics and the representation of algorithms on large data.
+Preliminary Design of ADMS±: A Workstation-Mainframe Integrated Architecture for Database Management Systems.
+The Cubetree Storage Organization.
+Using Semantic Networks for Database Management.
+"Fill-in-the-Form" Programming.
+The POSTGRES Data Model.
+A Framework for Automating Physical Database Design.
+Multiview: A Methodology for Supporting Multiple Views in Object-Oriented Databases.
+Aggregates in Possibilistic Databases.
+CAPE: Continuous Query Engine with Heterogeneous-Grained Adaptivity.
+Towards a Cooperative Transaction Model - The Cooperative Activity Model.
+Multidatabase Applications: Semantic and System Issues.
+Intra-Transaction Parallelism in the Mapping of an Object Model to a Relational Multi-Processor System.
+Sorting, Grouping and Duplicate Elimination in the Advanced Information Management Prototype.
+Database Partitioning in a Cluster of Processors.
+Index Access with a Finite Buffer.
+A Mechanism for Managing the Buffer Pool in a Relational Database System Using the Hot Set Model.
+The Structured Information Manager: A Database System for SGML Documents.
+A Sequential Pattern Query Language for Supporting Instant Data Mining for e-Services.
+IDA: An Intelligent Data Access Program.
+Equivalence among Relational Expressions with the Union and Difference Operation.
+Building Light-Weight Wrappers for Legacy Web Data-Sources Using W4F.
+General Purpose Database Summarization.
+A Method for Defining Information Structures and Transactions in Conceptual Schema Design
+Mining Approximate Top-K Subspace Anomalies in Multi-Dimensional Time-Series Data.
+Similarity Search for Adaptive Ellipsoid Queries Using Spatial Transformation.
+The A-tree: An Index Structure for High-Dimensional Spaces Using Relative Approximation.
+Principles of Transaction-Based On-Line Reorganization.
+Spatial Databases.
+A Description Language and Pilot-System Executive for Information-Transport Systems.
+GeMBASE: A Geometric Mediator for Brain Analysis with Surface Ensembles.
+The Quest for Comprehensive Semantic Formalisms.
+User-Adaptive Exploration of Multidimensional Data.
+Automation in Information Extraction and Data Integration.
+Query Processing in Tertiary Memory Databases.
+Explaining Differences in Multidimensional Aggregates.
+ALIAS: An Active Learning led Interactive Deduplication System.
+Reordering Query Execution in Tertiary Memory Databases.
+Green Query Optimization: Taming Query Optimization Overheads through Plan Recycling.
+Using History Information to Process Delayed Database Updates.
+Intelligent Rollups in Multidimensional OLAP Data.
+Local and Global Query Optimization Mechanisms for Relational Databases.
+QUIET: Continuous Query-driven Index Tuning.
+An Efficient Algorithm for Mining Association Rules in Large Databases.
+Maintaining XPath Views In Loosely Coupled Systems.
+Business Process Cockpit.
+Tuning Schema Matching Software using Synthetic Scenarios.
+Controlling Data Warehouses with Knowledge Networks.
+Architecture of the SOFIS Data Base Management System.
+Panel: Future Directions of Database Research - The VLDB Broadening Strategy, Part 1.
+Data Structures for an Integrated Data Base Management and Information Retrieval System.
+WATCHMAN : A Data Warehouse Intelligent Cache Manager.
+IBM's DB2 Universal Database demonstrations at VLDB'98.
+An Abstract Introduction to the Temporal-Hierarchic Data Model (THM).
+Lachesis: Robust Database Storage Management Based on Device-specific Performance Characteristics.
+A Survey of Physical Database Design Methodology and Techniques.
+Optimistic Methods for Concurrency Control in Distributed Database Systems
+A Multi-Level Architecture for Relational Data Base Systems.
+Parallel Processing of Relations: A Single-Assignment Approach.
+QStream: Deterministic Querying of Data Streams.
+Robust Real-time Query Processing with QStream.
+XMark: A Benchmark for XML Data Management.
+Research Directions in Biodiversity Informatics
+Tradeoffs in Processing Complex Join Queries via Hashing in Multiprocessor Database Machines.
+Supporting Flat Relations by a Nested Relational Kernel.
+Commercial Use of Database Technology.
+The ADABAS Buffer Pool Manager.
+Database Requirements of Knowledge-based Production Scheduling and Control: A CIM Perspective.
+Alert: An Architecture for Transforming a Passive DBMS into an Active DBMS.
+Stanford's Generalized Database System.
+Auditing Large Scale Data Bases.
+XXL - A Library Approach to Supporting Efficient Implementations of Advanced Database Queries.
+Techniques for Design and Implementation of Efficient Spatial Access Methods.
+The Buddy-Tree: An Efficient and Robust Access Method for Spatial Data Base Systems.
+Reading a Set of Disk Pages.
+Event-Join Optimization in Temporal Relational Databases.
+Data Management for Large Rule Systems.
+Efficient User-Adaptable Similarity Search in Large Multimedia Databases.
+A Multi-version Cache Replacement and Prefetching Policy for Hybrid Data Delivery Environments.
+New Seat Reservation System for Japanese National Railways - Distributed Processing Network and High Efficiency Databases.
+Multiple Concurrent Updates.
+Metrics for Accessing Heterogeneous Data: Is There Any Hope? (Panel).
+Information Integration and XML in IBM's DB2.
+Predictions and Challenges for Database Systems in the Year 2000.
+The R+-Tree: A Dynamic Index for Multi-Dimensional Objects.
+Multidimensional Access Methods: Trees Have Grown Everywhere.
+Transaction Support in Read Optimizied and Write Optimized File Systems.
+Specification of Stored Data Structures and Desired Output Results in DIAM II with FORAL.
+FORAL LP: Design and Implementation.
+DIAM II and Levels of Abstraction - The Physical Device Level: A General Model for Access Methods.
+A Logical Framework for Scheduling Workflows under Resource Allocation Constraints.
+Object-Oriented Specification of Databases: An Algebraic Approach.
+The Design and Implementation of a Sequence Database System.
+The Case for Enhanced Abstract Data Types.
+Program Development by Transformations Applied to Relational Database Queries.
+New Concurrency Control Algorithms for Accessing and Compacting B-Trees.
+Data Base System Performance Prediction Using an Analytical Model (Invited Paper)
+Filter Trees for Managing Spatial Data over a Range of Size Granularities
+Distributed Linear Hashing and Parallel Projection in Main Memory Databases.
+Parallel Algorithms for High-dimensional Similarity Joins for Data Mining Applications.
+SPRINT: A Scalable Parallel Classifier for Data Mining
+An Efficient and Resilient Approach to Filtering and Disseminating Streaming Data.
+Client Assignment in Content Dissemination Networks for Dynamic Data.
+Maintaining Coherency of Dynamic Data in Cooperating Repositories.
+INSITE: A Tool for Interpreting Users? Interaction with a Web Space.
+Relational Databases for Querying XML Documents: Limitations and Opportunities.
+Querying XML Views of Relational Data.
+Efficiently Publishing Relational Data as XML Documents.
+Clotho: Decoupling memory page layout from storage organization.
+Efficient Scheduling of Heterogeneous Continuous Queries.
+The Spatial Skyline Queries.
+AIDA: an Adaptive Immersive Data Analyzer.
+What is a "Good" Semantic or Meta Model?
+The Data Dictionary Facilities of NDB.
+NetBook - a Data Model to Support Knowledge Exploration.
+Database Tuning: Principles, Experiments, and Troubleshooting Techniques.
+Database Tuning.
+Cache Conscious Algorithms for Relational Query Processing.
+Technology and the Future of Commerce and Finance (Abstract).
+Coping with Complexity in Automated Reasoning about Database Systems.
+EOS: Unstoppable Stateful PHP.
+EOS: Exactly-Once E-Service Middleware.
+WaveCluster: A Multi-Resolution Clustering Approach for Very Large Spatial Databases.
+A Formal Model of Trade-off between Optimization and Execution Costs in Semantic Query Optimization.
+Multi-Join Optimization for Symmetric Multiprocessors.
+SELF-SERV: A Platform for Rapid Composition of Web Services in a Peer-to-Peer Environment.
+The Data-Centric Revolution in Networking.
+Federated Database Systems for Managing Distributed, Heterogeneous, and Autonomous Databases.
+Bellcore's ADAPT/X Harness System for Managing Information on Internet and Intranets.
+Supporting State-Wide Immunisation Tracking Using Multi-Paradigm Workflow Technology.
+A Shrinking-Based Approach for Multi-Dimensional Data Analysis.
+Filtering with Approximate Predicates.
+Active and Accelerated Learning of Cost Models for Optimizing Scientific Applications.
+Architectures for Internal Web Services Deployment.
+Path Expressions for Complex Queries and Automatic Database Program Conversion.
+Statistical Databases: Characteristics, Problems, and some Solutions.
+On the Implementation of a Logical Data Base Converter.
+Temporal Data Management.
+Characteristics of Scientific Databases.
+Materialized View Selection for Multidimensional Datasets.
+Storage Estimation for Multidimensional Aggregates in the Presence of Hierarchies.
+An Information-Theoretic Study on Aggregate Responses.
+Standardization and Database Systems.
+Using Design Axioms and Topology to Model Database Semantics.
+A Metadata Approach to Resolving Semantic Conflicts.
+Integrating Implicit Answers with Object-Oriented Queries.
+Next Generation Data Management in Enterprise Application Platforms.
+Scalable Techniques for Mining Causal Structures.
+Promises and Realities of Active Database Systems.
+Implementing High Level Active Rules on Top of a Relational DBMS.
+A DBMS for the U.S. Bureo of the Census.
+SIT-IN: a Real-Life Spatio-Temporal Information System.
+Efficiency-Quality Tradeoffs for Vector Score Aggregation.
+Query Execution Assurance for Outsourced Databases.
+Resilient Rights Protection for Sensor Streams.
+GORDIAN: Efficient and Scalable Discovery of Composite Keys.
+The Complexity of Fully Materialized Coalesced Cubes.
+Reasoning About Spatial Relationships in Picture Retrieval Systems.
+Similarity based Retrieval of Pictures Using Indices on Spatial Relationships.
+From Focused Crawling to Expert Information: an Application Framework for Web Exploration and Portal Generation.
+Trust-Serv: A Lightweight Trust Negotiation Service.
+Concurrent Garbage Collection in O2.
+Massive Stochastic Testing of SQL.
+Comments on the paper "Data Base Design in Theory and Practice" by Bo Sundgren.
+Conversion and the CODASYL Framework.
+A Normal Form for Abstract Syntax.
+Entity Modeling in the MLS Relational Model.
+Tamper Detection in Audit Logs.
+Concurrent Data Base Reorganization - Assessment of a Powerful Technique through Modeling
+The Rufus System: Information Organization for Semi-Structured Data.
+Software Requirement Definition and Data Models.
+The Semantic Web Paving the Way to the Knowledge Society.
+IT839 Policy Leading to u-Korea.
+Database Management in the Year 2000: Projections and Star Gazing (Panel).
+User Interfaces; Who Cares?
+Cooperative Database Design (Panel).
+A Generalized End-User Facility Architecture for Relational Database Systems.
+A Pragmatic Approach to Database Design.
+AQAX: A System for Approximate XML Query Answers.
+Table of Contents (pdf).
+Informix-Online XPS: A Dynamically Scalable RDBMS for Open Parallel Platforms.
+Framework for the Security Component of an Ada DBMS.
+Translation Structures of Relational Views.
+The hcC-tree: An Efficient Index Structure for Object Oriented Databases.
+Mining Generalized Association Rules.
+A Platform Based on the Multi-dimensional Data Model for Analysis of Bio-Molecular Structures.
+Oracle8i Index-Organized Table and Its Application to New Domains.
+Information Management Challenges from the Aerospace Industry.
+A logical framework for temporal deductive databases.
+Cumulative Updates.
+Answering Queries with Aggregation Using Views.
+Query Optimization over Web Services.
+Coral++: Adding Object-Orientation to a Logic Database Language.
+Memory-Limited Execution of Windowed Stream Joins.
+Discovery of Influence Sets in Frequently Updated Databases.
+The Bloomba Personal Content Database.
+Adaptive Data Broadcast in Hybrid Networks.
+Incremental Maintenance of Externally Materialized Views.
+Status Report on ISO/TC97/SC5/WG3 - Data Base Management Systems.
+From Nested-Loop to Join Queries in OODB.
+Bypassing Joins in Disjunctive Queries.
+Mapping Moving Landscapes by Mining Mountains of Logs: Novel Techniques for Dependency Model Generation.
+A Data Base Management Facility for Automatic Generation of Data Base Managers.
+The National Medical Knowledge Bank.
+LEO - DB2's LEarning Optimizer.
+Efficient Organization of Internal DBMS Structure.
+A Target Logical Schema: The ACS.
+Multi-Dimensional Database Allocation for Parallel Data Warehouses.
+WARLOCK: A Data Allocation Tool for Parallel Warehouses.
+Efficient Exploration of Large Scientific Databases.
+The Design of the POSTGRES Storage System.
+C-Store: A Column-oriented DBMS.
+DBMS Research at a Crossroads: The Vienna Update.
+Tioga: Providing Data Management Support for Scientific Visualization Applications.
+TIMBER: A Sophisticated Relation Browser (Invited Paper).
+The Design of XPRS.
+Observations on Data Manipulation Languages and Their Embedding in General Purpose Programming Languages.
+Database Portals: A New Application Program Interface.
+Adaptive Self-tuning Memory in DB2.
+Functional Specification of a Decision Support System.
+A Dialogue Interface for Data Base Applications.
+MICRONET: A Microcomputer Network System for Managing Distributed Relational Databases.
+Semantic Query Optimization in an Automata-Algebra Combined XQuery Engine over XML Streams.
+Semantic Query Optimization for XQuery over XML Streams.
+High-Level Navigational Facilities for Network and Relational Databases.
+Procedures in Object-Oriented Query Languages.
+Viewers: A Data-World Analogue of Procedure Calls.
+Query Optimization by Stored Queries.
+Online Outlier Detection in Sensor Data Using Non-Parametric Models.
+Query Decomposition and View Maintenance for Query Languages for Unstructured Data.
+Implementation and Analysis of a Parallel Collection Query Language.
+Aggregation and Relevance in Deductive Databases.
+Elimination of View and Redundant Variables in a SQL-like Database Language for Extended NF2 Structures.
+Tribeca: A Stream Database Manager for Network Traffic Analysis.
+Using Write Protected Data Structures To Improve Software Fault Tolerance in Highly Available Database Management Systems.
+A Product Specification Database for Visual Prototyping.
+Developing an Indexing Scheme for XML Document Collection using the Oracle8i Extensibility Framework.
+Data Base Design in Theory and Practice.
+On Search Performance for Conjunctive Queries in Compressed, Fully Transposed Ordered Files.
+Database Theory and its Relationship to Practice.
+End User Access to Very Large Databases in an Automated Office/Workstation Environment.
+Answering XPath Queries over Networks by Sending Minimal Views.
+Versions of Simple and Composite Objects.
+DB1 - A DBMS-Based Application Generator.
+Dynamic Load Balancing for Parallel Association Rule Mining on Heterogenous PC Cluster Systems.
+Efficient Progressive Skyline Computation.
+Online Feedback for Nested Aggregate Queries with Multi-Threading.
+Walking Through a Very Large Virtual Environment in Real-time.
+Bit-Sliced VLSI Algorithm for Search and Sort.
+Decomposition and Composition of a Relational Database.
+Logical Integration of Locally Independent Relational Databases into a Distributed Database
+Indexing Multi-Dimensional Uncertain Data with Arbitrary Probability Density Functions.
+Adaptive Index Structures.
+Reverse kNN Search in Arbitrary Dimensionality.
+Continuous Nearest Neighbor Search.
+Practical Suffix Tree Construction.
+Load Shedding in a Data Stream Manager.
+Window-Aware Load Shedding for Aggregation Queries over Data Streams.
+Choice and Performance in Locking for Databases.
+Concurrency in the Data Warehouse.
+Database Program Conversion: A Framework for Research.
+High-Performance and Scalability through Application Tier,In-Memory Data Management.
+Towards Event-Driven Modelling for Database Design.
+A Regression-Based Temporal Pattern Mining Scheme for Data Streams.
+SVT: Schema Validation Tool for Microsoft SQL-Server.
+An Efficient and Versatile Query Engine for TopX Search.
+Top-k Query Evaluation with Probabilistic Guarantees.
+Data Warehouse Configuration.
+Comments on the Paper "Data Base Design in Theory and Practice".
+A Superjoin Algorithm for Deductive Databases.
+Psychological Issues in Data Base Management.
+A Plan-Operator Concept for Client-Based Knowledge Progressing.
+Building Usable Menu-Based Natural Language Interfaces To Databases.
+AWESOME - A Data Warehouse-based System for Adaptive Website Recommendations.
+Tuple Routing Strategies for Distributed Eddies.
+A Micro-DBMS for a Distributed Data Base.
+PRTV: An Efficient Implementation for Large Relational Data Bases.
+Multi-Level Structures of the DBTG Data Model for an Achievement of Physical Data Independence.
+Sampling Large Databases for Association Rules.
+Choosing an Efficient Internal Schema.
+Biological Data Management: Research, Practice and Opportunities.
+The Reconstruction and Optimization of Trie Hashing Functions.
+Chameleon: an Extensible and Customizable Tool for Web Data Translation.
+The ADD System: An Architecture for Distributed Databases.
+Type Classification of Semi-Structured Documents.
+On-Demand Data Elevation in Hierarchical Multimedia Storage Servers.
+The GMAP: A Versatile Tool for Physical Data Independence.
+Features of a Conceptual Schema.
+OFS: An Integrated Form Management System.
+Integrating Data Base and Message Systems (Invited Paper)
+A Multimedia Office Filing System.
+The Generalized Pre-Grouping Transformation: Aggregate-Query Optimization in the Presence of Dependencies.
+Multi-Level Data Model in DPLS - Database, Dynamic Program Control & Open-Ended Pol Support.
+Data Mining in the Bioinformatics Domain.
+Are Web Services the Next Revolution in e-Commerce? (Panel).
+LDL: A Logic-Based Data Language.
+Load Shedding in Stream Databases: A Control-Based Approach.
+A Pragmatic Approach to Structured Database Design.
+A Tool for Modular Database Design.
+Similarity Search: A Matching Based Approach.
+A DBMS for Large Statistical Databases.
+A Temporal Relational Algebra as Basis for Temporal Relational Completeness.
+Atomicity versus Anonymity: Distributed Transactions for Electronic Commerce.
+An Extended Relational Database System and It's Application to Management of Logic Diagrama.
+BilVideo Video Database Management System.
+Querying Business Processes with BP-QL.
+Dynamic Pipeline Scheduling for Improving Interactive Query Performance.
+A Method for Change Computation in Deductive Databases.
+Object-Oriented Database Systems.
+Implementation Techniques of Complex Objects.
+Very Large Databases: How Large, How Different?
+Describing and Using Query Capabilities of Heterogeneous Sources.
+Functional Dependencies and Incomplete Information.
+How Does an Expert System Get its Data? (Extended Abstract).
+Mapping Adaptation under Evolving Schemas.
+The O2 Object Manager: an Overview.
+Systematic Derivation of Complementary Specifications
+Views in a Large Scale XML Repository.
+Heterogeneous Database Query Optimization in DB2 Universal DataJoiner.
+Reference-based Indexing of Sequence Databases.
+The Role of Integrity Constraints in Database Interoperation.
+Characterization of Well-Behaved Database Schemata and Their Update Semantics.
+Data Base Design by Applied Data Synthesis.
+Applying Hash Filters to Improving the Execution of Bushy Trees.
+From Data Independence to Knowledge Independence: An on-going Story.
+A Dependability Benchmark for OLTP Application Environments.
+Maximizing the Output Rate of Multi-Way Join Queries over Streaming Information Sources.
+GnatDb: A Small-Footprint, Secure Database System.
+Applying Data Mining Techniques to a Health Insurance Information System.
+An Adaptive Hybrid Server Architecture for Client Caching ODBMSs.
+The Mirror MMDBMS Architecture.
+FeedbackBypass: A New Approach to Interactive Similarity Query Processing.
+Et tu, XML? The downfall of the relational empire (abstract).
+On Retrieval from a Small Version of a Large Data Base.
+Data Planning.
+Strategies for Handling Transactions in Distributed Data Base Systems During Recovery.
+Nested Transactions with Multiple Commit Points: An Approach to the Structuring of Advanced Database Applications.
+Database Support for Knowledge-Based Image Evaluation.
+A Taxonomy and Performance Model of Data Skew Effects in Parallel Joins.
+DB2 Query Parallelism: Staging and Implementation.
+Avoiding Ordering and Grouping In Query Processing.
+Computing PageRank in a Distributed Internet Search Engine System.
+Mining Frequent Itemsets Using Support Constraints.
+Bloom Histogram: Path Selectivity Estimation for XML Data with Updates.
+Temporal Management of RFID Data.
+Efficient Secure Query Evaluation over Encrypted XML Databases.
+A Polygen Model for Heterogeneous Database Systems: The Source Tagging Perspective.
+NUITS: A Novel User Interface for Efficient Keyword Search over Databases.
+State-Slice: New Paradigm of Multi-query Optimization of Window-based Stream Queries.
+HUX: Handling Updates in XML.
+Query Processing for Distance Metrics.
+An Interpolated Volume Data Model.
+R-SOX: Runtime Semantic Query Optimization over XML Streams.
+Efficient Processing of XML Path Queries Using the Disk-based F&B Index.
+Instance-based Schema Matching for Web Databases by Domain-specific Query Probing.
+STING: A Statistical Information Grid Approach to Spatial Data Mining.
+Using SQL to Build New Aggregates and Extenders for Object- Relational Systems.
+ATLAS: A Small but Complete SQL Extension for Data Mining and Data Streams.
+Building Hierarchical Classifiers Using Class Proximity.
+Name-Tracing Using the ICL Content Addressable Filestore.
+Efficient Processing of Interactive Relational Data Base Queries expressed in Logic
+Multi-column Substring Matching for Database Schema Translation.
+A Software Engineering View of Data Base Management.
+A Software Engineering View of Data Base Systems.
+Data Bases for Software Development
+A Quantitative Analysis and Performance Study for Similarity-Search Methods in High-Dimensional Spaces.
+WebService Composition with O'GRAPE and OSIRIS.
+Self-tuning Database Technology and Information Services: from Wishful Thinking to Viable Engineering.
+Architectural Issues of Transaction Management in Multi-Layered Systems.
+Implementation Strategies for the Census Data Base.
+An Extended Disjunctive Normal Form Approach for Optimizing Recursive Logic Queries in Loosely Coupled Environments.
+Separability - An Approach to Physical Data Base Design
+Physical Design of Network Model Databases Using the Property of Separability.
+A Performance Study of Alternative Object Faulting and Pointer Swizzling Strategies.
+GTE SuperPages: Using IR Techniques for Searching Complex Objects.
+Implementing Set-Oriented Production Rules as an Extension to Starburst.
+Knowledge to Mediate from User's Workstations to Databases.
+Bulk Loading into an OODB: A Performance Study.
+OODB Bulk Loading Revisited: The Partitioned-List Approach.
+Hyperqueries: Dynamic Distributed Query Processing on the Internet.
+Efficient Testing of High Performance Transaction Processing Systems.
+Maintaining Consistency of Client-Cached Data.
+Parallelism in a Main-Memory DBMS: The Performance of PRISMA/DB.
+A Conceptual Model for Semantic Integrity Checking.
+The Multipurpose Presentation System.
+Semantics vs. Graphics - To Show or not to Show.
+A System for Interactive Error Detection.
+Optimal Choice of Data Restructuring Points.
+Business Modelling Using SQL Spreadsheets.
+Query By Excel.
+NCR 3700 - The Next-Generation Industrial Database Computer.
+Automatic Classification of Office Documents by Coupling Relational Data Bases and PROLOG Expert Systems.
+Multimedia Information Management in an Object-Oriented Database System.
+Algebraic Optimization of Computations over Scientific Databases.
+GUIDE: Graphical User Interface for Database Exploration.
+Transposition Algorithms on Very Large Compressed Databases.
+Bit Transposed Files.
+Factoring Augmented Regular Chain Programs.
+Decentralized Authorization in a Database System.
+An Implementation of Hypothetical Relations.
+FALCON: Feedback Adaptive Loop for Content-Based Retrieval.
+On the performance of bitmap indices for high cardinality attributes.
+A Performance Study of Workfile Disk Management for Concurrent Mergesorts in a Multiprocessor Database System.
+Gorder: An Efficient Method for KNN Join Processing.
+On Computing Top-t Most Influential Spatial Sites.
+Anatomy: Simple and Effective Privacy Preservation.
+Join Index Hierarchies for Supporting Efficient Navigations in Object-Oriented Databases.
+Towards Robust Indexing for Ranked Queries.
+Answering Top-k Queries with Multi-Dimensional Selections: The Ranking Cube Approach.
+Star-Cubing: Computing Iceberg Cubes by Top-Down and Bottom-Up Integration.
+Mining Compressed Frequent-Pattern Sets.
+Providing Resiliency to Load Variations in Distributed Stream Processing.
+Semantic Mining and Analysis of Gene Expression Data.
+Databases in a Wireless World.
+Caching Strategies for Data-Intensive Web Sites.
+Building and Customizing Data-Intensive Web Sites Using Weave.
+Design of a Balanced Multiple Valued File Organization Schema with the Least Redundancy.
+Integrating a Structured-Text Retrieval System with an Object-Oriented Database System.
+Duplicate Removal in Information System Dissemination.
+Eager Aggregation and Lazy Aggregation.
+A Dynamic Perfect Hash Function Defined by an Extended Hash Indicator Table.
+Comparing Hybrid Peer-to-Peer Systems.
+Algorithms for Materialized View Design in Data Warehousing Environment.
+Secure XML Publishing without Information Leakage in the Presence of Data Inference.
+Query Transformation for PSJ-Queries.
+Efficient Mining of XML Query Patterns for Caching.
+Algorithms for Acyclic Database Schemes
+Selection of File Organization Using an Analytic Model.
+Checking for k-Anonymity Violation by Views.
+Relational Data Model with Cause-Effect Association (Abstract).
+Using High Dimensional Indexes to Support Relevance Feedback Based Interactive Images Retrival.
+Toward a Design Methodology for DBMS: A Software Engineering Approach.
+Automatic Extraction of Dynamic Record Sections From Search Engine Result Pages.
+LinkClus: Efficient Clustering via Heterogeneous Semantic Links.
+Crimson: A Data Management System to Support Evaluating Phylogenetic Tree Reconstruction Algorithms.
+On Analogical Query Processing in Logic Database.
+Processing Inequality Queries Based on Generalized Semi-Joins.
+Improving Database Performance on Simultaneous Multithreading Processors.
+Query Processing in a Relational Database Management System.
+VXMLR: A Visual XML-Relational Database System.
+Tabular Placement of Relational Data on MEMS-based Storage Devices.
+WmXML: A System for Watermarking XML Data.
+On Affinity Based Routing in Multi-System Data Sharing.
+Buffering Accesses to Memory-Resident Index Structures.
+False Positive or False Negative: Mining Frequent Itemsets from High Speed Transactional Data Streams.
+Data Bubbles for Non-Vector Data: Speeding-up Hierarchical Clustering in Arbitrary Metric Spaces.
+Schema Summarization.
+Stochastic Consistency, and Scalable Pull-Based Caching for Erratic Data Sources.
+Distributed Top-N Query Processing with Possibly Uncooperative Local Systems.
+StatStream: Statistical Monitoring of Thousands of Data Streams in Real Time.
+File Allocation in Distributed Databases with Interaction between Files.
+DB2 Design Advisor: Integrated Automatic Physical Database Design.
+Compressed Accessibility Map: Efficient Access Control for XML.
+A Raster Approximation For Processing of Spatial Joins.
+A Semantic Information Integration Tool Suite.
+Different Views of a Data Base: Coexistence between Network Model and Relational Model.
+Efficient Computation of the Skyline Cube.
+Distributed Privacy Preserving Information Sharing.
+Conference Officers.
+AReNA: Adaptive Distributed Catalog Infrastructure Based On Relevance Networks.
+Hyper-Programming in Java.
+Estimating Block Accessses when Attributes are Correlated.
+Hit Data Model Data Bases from the Functional Point of View.
+The Representation and Deductive Retrieval of Complex Objects.
+Query-by-Example: the Invocation and Definition of Tables and Forms.
+An Adaptive Hash Join Algorithm for Multiuser Environments.
+An Efficient Indexing Technique for Full Text Databases.
+Experience Report: Exploiting Advanced Database Optimization Features for Large-Scale SAP R/3 Installations.
+Searching Large Lexicons for Partially Specified Terms using Compressed Inverted Files.
+Scientific Databases - State of the Art and Future Directions.
+Efficiency of Nested Relational Document Database Systems.
+AgFlow: Agent-based Cross-Enterprise Workflow Management System.
+Safely and Efficiently Updating References During On-line Reorganization.
+Hamming Filters: A Dynamic Signature File Organization for Parallel Stores.
+Datawarehousing Has More Colours Than Just Black & White.
+Progressive Computation of the Min-Dist Optimal-Location Query.
+Matching Twigs in Probabilistic XML.
+Light-weight Domain-based Form Assistant: Querying Web Databases On the Fly.
+Probabilistic Graphical Models and their Role in Databases.
+Statistical Learning Techniques for Costing XML Queries.
+DataScope: Viewing Database Contents in Google Maps' Way.
+Dynamic Memory Adjustment for External Mergesort.
+Supporting Time-Constrained SQL Queries in Oracle.
+Buffering and Read-Ahead Strategies for External Mergesort.
+A Simple and Efficient Estimation Method for Stream Expression Cardinalities.
+HOS-Miner: A System for Detecting Outlying Subspaces of High-dimensional Data.
+Example-driven design of efficient record matching queries.
+A Cost-Estimation Component for Statement Sequences.
+An Approach to Optimize Data Processing in Business Processes.
+Adaptive query processing: Why, How, When, and What Next?
+Staying FIT: Efficient Load Shedding Techniques for Distributed Stream Processing.
+Indexable PLA for Efficient Similarity Search.
+VGRAM: Improving Performance of Approximate Queries on String Collections Using Variable-Length Grams.
+Improving Data Quality: Consistency and Accuracy.
+Efficient Keyword Search over Virtual XML Views.
+Zoom*UserViews: Querying Relevant Provenance in Workflow Systems.
+SQLB: A Query Allocation Framework for Autonomous Consumers and Providers.
+Context-Aware Wrapping: Synchronized Data Extraction.
+SciPort: An Adaptable Scientific Data Integration Platform for Collaborative Scientific Research.
+The End of an Architectural Era (It's Time for a Complete Rewrite).
+Secure Data Outsourcing.
+Model Management and Schema Mappings: Theory and Practice.
+TRAX - Real-World Tracking of Moving Objects.
+Periscope/SQ: Interactive Exploration of Biological Sequence Databases.
+Adaptive Aggregation on Chip Multiprocessors.
+FluxCapacitor: Efficient Time-Travel Text Search.
+Update Exchange with Mappings and Provenance.
+Deadline and QoS Aware Data Warehouse.
+Measuring the Structural Similarity of Semistructured Documents Using Entropy.
+Fast Data Anonymization with Low Information Loss.
+Regulatory-Compliant Data Management.
+On the Production of Anorexic Plan Diagrams.
+Main-Memory Operation Buffering for Efficient R-Tree Update.
+STAR: Self-Tuning Aggregation for Scalable Monitoring.
+A STEP Towards Realizing Codd's Vision of Rendezvous with the Casual User.
+Self-Tuning Database Systems: A Decade of Progress.
+Computer Science 2.0: A New World of Data Management.
+Efficient Use of the Query Optimizer for Automated Database Design.
+On Dominating Your Neighborhood Profitably.
+Proof-Infused Streams: Enabling Authentication of Sliding Window Queries On Streams.
+Querying Complex Structured Databases.
+XBenchMatch: a Benchmark for XML Schema Matching Tools.
+Ranked Subsequence Matching in Time-Series Databases.
+Materialized Views in Probabilistic Databases for Information Exchange and Query Optimization.
+Dynamic Workload Management for Very Large Data Warehouses: Juggling Feathers and Bowling Balls.
+Automating the Detection of Snapshot Isolation Anomalies.
+Structured Materialized Views for XML Queries.
+Efficient Skyline Computation over Low-Cardinality Domains.
+Inferring XML Schema Definitions from XML Data.
+Unifying Data and Domain Knowledge Using Virtual Views.
+The GCX System: Dynamic Buffer Minimization in Streaming XQuery Evaluation.
+Towards Graph Containment Search and Indexing.
+Extending XQuery with Window Functions.
+MIST: Distributed Indexing and Querying in Sensor Networks using Statistical Models.
+LCS-TRIM: Dynamic Programming Meets XML Indexing and Querying.
+FuSem - Exploring Different Semantics of Data Fusion.
+Extending Dependencies with Conditions.
+XML retrieval: db/ir in theory, web in practice.
+NS2: Networked Searchable Store with Correctness.
+Approaching the Skyline in Z Order.
+On the Correctness Criteria of Fine-Grained Access Control in Relational Databases.
+Increasing Buffer-Locality for Multiple Index Based Scans through Intelligent Placement and Index Scan Speed Control.
+Executing Stream Joins on the Cell Processor.
+Peer-to-Peer Similarity Search in Metric Spaces.
+Effective Phrase Prediction.
+Cooperative Scans: Dynamic Bandwidth Sharing in a DBMS.
+Time Series Compressibility and Privacy.
+Stop-and-Restart Style Execution for Long Running Decision Support Queries.
+CADS: Continuous Authentication on Data Streams.
+Query Processing over Incomplete Autonomous Databases.
+A General Framework for Modeling and Processing Optimization Queries.
+Randomized Algorithms for Data Reconciliation in Wide Area Aggregate Query Processing.
+Performance Evaluation and Experimental Assessment - Conscience or Curse of Database Research?
+Inverse Functions in the AquaLogic Data Services Platform.
+Fast nGram-Based String Search Over Data Encoded Using Algebraic Signatures.
+HiSbase: Histogram-based P2P Main Memory Data Management.
+XRPC: Interoperable and Efficient Distributed XQuery.
+SOR: A Practical System for Ontology Storage, Reasoning and Search.
+Modeling and Querying Vague Spatial Objects Using Shapelets.
+Declarative Information Extraction Using Datalog with Embedded Extraction Predicates.
+Answering Aggregation Queries in a Secure System Model.
+OLAP over Imprecise Data with Domain Constraints.
+Eliminating Impedance Mismatch in C++.
+Request Window: an Approach to Improve Throughput of RDBMS-based Data Integration System by Utilizing Data Sharing Across Concurrent Distributed Queries.
+Multi-Probe LSH: Efficient Indexing for High-Dimensional Similarity Search .
+Privacy Skyline: Privacy with Multidimensional Adversarial Knowledge.
+Depth Estimation for Ranking Query Optimization.
+Challenges and Experience in Prototyping a Multi-Modal Stream Analytic and Monitoring Application on System S.
+Monitoring Business Processes with Queries.
+P2P Authority Analysis for Social Communities.
+Minimality Attack in Privacy Preserving Data Publishing.
+A Bayesian Method for Guessing the Extreme Values in a Data Set.
+Tracing Lineage Beyond Relational Operators.
+Lazy Maintenance of Materialized Views.
+Cover Page.
+Extending Q-Grams to Estimate Selectivity of String Matching with Low Edit Distance.
+Efficient Computation of Reverse Skyline Queries.
+Semi-Automatic Schema Integration in Clio.
+Data Access Patterns in The Amazon.com Technology Platform.
+Probabilistic Skylines on Uncertain Data.
+Why You Should Run TPC-DS: A Workload Analysis.
+Adaptive Fastest Path Computation on a Road Network: A Traffic Mining Approach.
+CallAssist: Helping Call Center Agents in Preference Elicitation.
+From Data Privacy to Location Privacy: Models and Algorithms.
+BlogScope: A System for Online Analysis of High Volume Text Streams.
+Security in Outsourcing of Association Rule Mining.
+A genetic approach for random testing of database systems.
+A Generic solution for Warehousing Business Process Data.
+Efficiently Answering Top-k Typicality Queries on Large Databases.
+Making Sense of Suppressions and Failures in Sensor Data: A Bayesian Approach.
+Bridging the Application and DBMS Profiling Divide for Database Application Developers.
+Detecting Attribute Dependencies from Query Feedback.
+Processing Forecasting Queries.
+EntityRank: Searching Entities Directly and Holistically.
+GhostDB: Hiding Data from Prying Eyes.
+IndeGS: Index Supported Graphics Data Server for CFD Data Postprocessing.
+A Relational Approach to Incrementally Extracting and Querying Structure in Unstructured Data.
+Efficient Bulk Deletes for Multi Dimensionally Clustered Tables in DB2.
+Self-Organizing Schema Mappings in the GridVine Peer Data Management System.
+Ad-hoc Top-k Query Answering for Data Streams.
+Seeking Stable Clusters in the Blogosphere.
+RankMass Crawler: A Crawler with High PageRank Coverage Guarantee.
+CellSort: High Performance Sorting on the Cell Processor.
+Graph Indexing: Tree + Delta >= Graph.
+GeRoMeSuite: A System for Holistic Generic Model Management.
+To Share or Not To Share?
+Data Integration with Uncertainty.
+K-Anonymization as Spatial Indexing: Toward Scalable and Incremental Anonymization.
+XSeek: A Semantic XML Search Engine Using Keywords.
+Over-encryption: Management of Access Control Evolution on Outsourced Data.
+The Boundary Between Privacy and Utility in Data Publishing.
+Technology for Developing Regions.
+On Efficient Spatial Matching.
+iTrails: Pay-as-you-go Information Integration in Dataspaces.
+Continuous Queries in Oracle.
+Optimization of Frequent Itemset Mining on Multiple-Core Processor.
+Welcome Message from the General Chairs.
+Building Structured Web Community Portals: A Top-Down, Compositional, and Incremental Approach.
+Reasoning about the Behavior of Semantic Web Services with Concurrent Transaction Logic.
+Integrity Auditing of Outsourced Data.
+Value-Based Notification Conditions in Large-Scale Publish/Subscribe Systems.
+UQLIPS: A Real-time Near-duplicate Video Clip Detection System.
+Efficient Processing of Top-k Dominating Queries on Multi-Dimensional Data.
+Large Scale P2P Distribution of Open-Source Software.
+Sum-Max Monotonic Ranked Joins for Evaluating Top-K Twig Queries on Weighted Data Graphs.
+Best Position Algorithms for Top-k Queries.
+Copyright Notice.
+DAMIA - A Data Mashup Fabric for Intranet Applications.
+Early Profile Pruning on XML-aware Publish/Subscribe Systems.
+What does Web 2.0 have to do with databases?
+Foreword from the PC Chairs.
+Query language support for incomplete information in the MayBMS system.
+Program Committees and External Reviewers.
+Anytime Measures for Top-k Algorithms.
+VLDB Endowment Board of Trustees.
+Scalable Semantic Web Data Management Using Vertical Partitioning.
+Raster databases.
+Proceedings of the 33rd International Conference on Very Large Data Bases, University of Vienna, Austria, September 23-27, 2007
+Proceedings of the 32nd International Conference on Very Large Data Bases, Seoul, Korea, September 12-15, 2006
