@@ -28,7 +28,7 @@ I read the datasets from the paths ("datasets/dataset1.txt") , ("datasets/datase
    
 ----------------------------------------------------------------------------------------------------------------------------
 
-Time spent ~ 15 hrs (alot of time spent debugging and understanding GMM)
+Time spent ~ 20 hrs (alot of time spent debugging and understanding GMM)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
