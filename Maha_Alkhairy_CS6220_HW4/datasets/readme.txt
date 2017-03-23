@@ -1,1 +1,0 @@
-Each dataset contains 3 columns, with the format: x1 \t x2 \t cluster_label. Use the first two columns for clustering, and the last column for evaluation.
