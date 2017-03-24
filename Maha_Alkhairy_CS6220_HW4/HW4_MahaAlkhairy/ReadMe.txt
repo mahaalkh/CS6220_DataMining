@@ -20,15 +20,21 @@ I read the datasets from the paths ("datasets/dataset1.txt") , ("datasets/datase
 - to run GMM and plot it: 
      plot_GMM(data_matrix, K, original_labels, clustering_text, num_restarts=100, initial_means=None, initial_vars=None)
          output > means, variances, predicted_labels, log_likelihood
-     
- --------------------------------------------------------------------------------------------------------------------------
+         
+      
+--------------------------------------------------------------------------------------------------------------------------\
+
+The written part is in the python notebook with details in the PDF. 
+
+Question three answers is in the last three pages of the PDF 
+--------------------------------------------------------------------------------------------------------------------------
  
  Difficulties: 
    - Understanding Gaussian Mixure Models was not easy and the help of the professor for my understanding was extremely helpful
    
 ----------------------------------------------------------------------------------------------------------------------------
 
-Time spent ~ 20 hrs (alot of time spent debugging and understanding GMM)
+Time spent ~ 25 hrs (alot of time spent debugging and understanding GMM)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
