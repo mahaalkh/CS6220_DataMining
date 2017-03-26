@@ -38,6 +38,6 @@ Time spent ~ 40 hrs (alot of time spent debugging and understanding GMM)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
-Discussed the HW with Sanil and Jason
+Discussed the HW with Sanil,  Jason and Timur
    
     
