@@ -34,7 +34,7 @@ Question three answers is in the last three pages of the PDF
    
 ----------------------------------------------------------------------------------------------------------------------------
 
-Time spent ~ 40 hrs (alot of time spent debugging and understanding GMM)
+Time spent ~ 45 hrs (alot of time spent debugging and understanding GMM)
 
 ----------------------------------------------------------------------------------------------------------------------------
 
